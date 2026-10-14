@@ -1,0 +1,637 @@
+"from","to","weight_mean","weight_sum","sd_weight","frequency","polarity","weight"
+"AMR","human health",-2,-2,,1,"negative",2
+"CCPP","livestock disease",2,2,,1,"positive",2
+"CCPP","livestock health",-2,-2,,1,"negative",2
+"FMD","livestock disease",2,2,,1,"positive",2
+"FMD","livestock health",-2,-2,,1,"negative",2
+"NGO support","access to healthcare",2,4,1.4142135623731,2,"positive",4
+"NGO support","availability of medicines",1.5,3,0.707106781186548,2,"positive",3
+"NGO support","chemical water treatment",3,3,,1,"positive",3
+"NGO support","community forest associations",2,2,,1,"positive",2
+"NGO support","food availability",2.5,5,0.707106781186548,2,"positive",5
+"NGO support","gender equality",2,2,,1,"positive",2
+"NGO support","health education",2.25,9,0.5,4,"positive",9
+"NGO support","healthcare facilities",2.5,5,0.707106781186548,2,"positive",5
+"NGO support","herd size",2,2,,1,"positive",2
+"NGO support","human vaccination",2,2,,1,"positive",2
+"NGO support","inter-community communication",2,4,1.4142135623731,2,"positive",4
+"NGO support","livestock death",-2,-2,,1,"negative",2
+"NGO support","livestock supplementary feed",1,1,,1,"positive",1
+"NGO support","livestock vaccination",3,3,,1,"positive",3
+"NGO support","maternal health",2,2,,1,"positive",2
+"NGO support","medical outreach programs",2.5,15,0.547722557505166,6,"positive",15
+"NGO support","natural resource management",2,2,,1,"positive",2
+"NGO support","protected water infrastructure",2,14,0.577350269189626,7,"positive",14
+"NGO support","schooling",2.2,11,0.447213595499958,5,"positive",11
+"Orf","livestock health",-2,-2,,1,"negative",2
+"PPR","livestock disease",2,2,,1,"positive",2
+"PPR","livestock health",-2,-2,,1,"negative",2
+"RVF","human health",-2,-4,0,2,"negative",4
+"RVF","livestock disease",3,3,,1,"positive",3
+"RVF","livestock health",-2,-2,,1,"negative",2
+"abdominal pain","human health",-2,-2,,1,"negative",2
+"access to healthcare","cancer",-1,-1,,1,"negative",1
+"access to healthcare","chemical water treatment",2,2,,1,"positive",2
+"access to healthcare","hospital visits",1,1,,1,"positive",1
+"access to healthcare","human health",2.77777777777778,25,0.440958551844098,9,"positive",25
+"access to healthcare","malnutrition",-3,-3,,1,"negative",3
+"access to healthcare","non-communicable disease",-1,-1,,1,"negative",1
+"access to healthcare","traditional medicine",-2,-6,1,3,"negative",6
+"access to natural resources","grazing",2,2,,1,"positive",2
+"access to natural resources","insecurity & conflict",2,2,,1,"positive",2
+"availability of medicines","access to healthcare",2,2,,1,"positive",2
+"availability of medicines","diarrhoea",-2,-4,0,2,"negative",4
+"availability of medicines","hospital visits",-3,-3,,1,"negative",3
+"availability of medicines","human health",2.25,9,0.5,4,"positive",9
+"availability of medicines","sickness in children <5",-3,-3,,1,"negative",3
+"availability of medicines","traditional medicine",-2,-2,,1,"negative",2
+"availability of medicines","human death",-1,-1,,1,"negative",1
+"brucellosis","human health",-2,-4,0,2,"negative",4
+"brucellosis","livestock health",-2,-2,,1,"negative",2
+"burden of caring for family","financial security",-1,-1,,1,"negative",1
+"bush encroachment","deforestation",1,1,,1,"positive",1
+"bushfire","grazing",-2,-2,,1,"negative",2
+"cancer","hospital visits",1,1,,1,"positive",1
+"cancer","human health",-2,-18,0,9,"negative",18
+"cancer","human death",2.5,5,0.707106781186548,2,"positive",5
+"carbon credit schemes","access to natural resources",-2,-2,,1,"negative",2
+"carbon credit schemes","schooling",1,1,,1,"positive",1
+"chemical water treatment","human health",2,2,,1,"positive",2
+"chemical water treatment","water contamination",-3,-3,,1,"negative",3
+"chemical water treatment","water quality",2.63636363636364,29,0.504524979109513,11,"positive",29
+"climate change","bush encroachment",2,2,,1,"positive",2
+"climate change","cancer",1,1,,1,"positive",1
+"climate change","carbon credit schemes",2,2,,1,"positive",2
+"climate change","drought",3,6,0,2,"positive",6
+"climate change","environmental health",-3,-3,,1,"negative",3
+"climate change","rainfall",-1.83333333333333,-11,1.94079021706795,6,"negative",11
+"climate change","rainfall predictability",-2.66666666666667,-8,0.577350269189626,3,"negative",8
+"climate change","resource uncertainty",2.5,2.5,,1,"positive",2.5
+"cold, damp environment","human health",-2,-2,,1,"negative",2
+"cold, damp environment","livestock disease",2,2,,1,"positive",2
+"cold, damp environment","pneumonia",2,4,0,2,"positive",4
+"cold, damp environment","respiratory infections",3,6,0,2,"positive",6
+"communal land tenure","overgrazing",2,2,,1,"positive",2
+"community forest associations","deforestation",-2,-2,,1,"negative",2
+"coxidiosis","livestock health",-2,-2,,1,"negative",2
+"cross-boundary diseases","livestock health",-2,-4,0,2,"negative",4
+"cultural preferences","brucellosis",2,2,,1,"positive",2
+"cultural preferences","health seeking behaviour",-2,-4,0,2,"negative",4
+"cultural preferences","herd size",2,2,,1,"positive",2
+"cultural preferences","income diversification",-2,-2,,1,"negative",2
+"cultural preferences","informal governance",3,3,,1,"positive",3
+"cultural preferences","insecurity & conflict",2,4,1.4142135623731,2,"positive",4
+"cultural preferences","livestock sale",-2,-2,,1,"negative",2
+"cultural preferences","natural resource management",-3,-3,,1,"negative",3
+"cultural preferences","schooling",-2,-2,,1,"negative",2
+"cultural preferences","traditional medicine",2.33333333333333,7,0.577350269189626,3,"positive",7
+"deforestation","climate change",2,2,,1,"positive",2
+"deforestation","environmental health",-2,-2,,1,"negative",2
+"deforestation","habitat degradation",2,2,,1,"positive",2
+"deforestation","vegetation cover",-2,-2,,1,"negative",2
+"diarrhoea","hospital visits",2,2,,1,"positive",2
+"diarrhoea","human health",-2.33333333333333,-49,0.483045891539648,21,"negative",49
+"diarrhoea","human productivity",-3,-3,,1,"negative",3
+"diarrhoea","human resources for herding livestock",-3,-3,,1,"negative",3
+"diarrhoea","livestock health",-2,-2,,1,"negative",2
+"diarrhoea","malnutrition",2.5,5,0.707106781186548,2,"positive",5
+"diarrhoea","schooling",-1,-1,,1,"negative",1
+"diarrhoea","sickness in children <5",2,2,,1,"positive",2
+"diarrhoea","water quality",-2,-2,,1,"negative",2
+"dietary diversity","food security",2.5,5,0.707106781186548,2,"positive",5
+"dietary diversity","malnutrition",-3,-3,,1,"negative",3
+"dietary diversity","nutritious diet",2,2,,1,"positive",2
+"distance to grazing","livestock moved to distant pasture",3,6,0,2,"positive",6
+"distance to grazing","livestock movement",-3,-3,,1,"negative",3
+"distance to grazing","milk availability",-3,-3,,1,"negative",3
+"drought","diarrhoea",3,3,,1,"positive",3
+"drought","food purchase",2,4,0,2,"positive",4
+"drought","grazing",-2.93333333333333,-44,0.258198889747161,15,"negative",44
+"drought","informal governance",2,2,,1,"positive",2
+"drought","livestock body condition",-2.66666666666667,-8,0.577350269189626,3,"negative",8
+"drought","livestock death",2.8,14,0.447213595499958,5,"positive",14
+"drought","livestock health",-3,-3,,1,"negative",3
+"drought","livestock moved to distant pasture",2.6,13,0.547722557505166,5,"positive",13
+"drought","livestock population",-2.91666666666667,-35,0.288675134594813,12,"negative",35
+"drought","livestock price",-3,-3,,1,"negative",3
+"drought","livestock sale",1,1,,1,"positive",1
+"drought","livestock supplementary feed",1.5,3,0.707106781186548,2,"positive",3
+"drought","malaria",1,1,,1,"positive",1
+"drought","malnutrition",3,3,,1,"positive",3
+"drought","meat availability",-3,-3,,1,"negative",3
+"drought","mental health",-3,-3,,1,"negative",3
+"drought","milk availability",-3,-3,,1,"negative",3
+"drought","new settlers",2.5,5,0.707106781186548,2,"positive",5
+"drought","rainfall",-3,-3,,1,"negative",3
+"drought","water availability",-3,-24,0,8,"negative",24
+"dry season grazing","grazing",2,2,,1,"positive",2
+"enterotoxaemia","livestock health",-2,-2,,1,"negative",2
+"environmental faecal contamination","diarrhoea",2.5,5,0.707106781186548,2,"positive",5
+"environmental faecal contamination","human health",-2,-2,,1,"negative",2
+"environmental faecal contamination","livestock body condition",-3,-3,,1,"negative",3
+"environmental faecal contamination","livestock disease",2,2,,1,"positive",2
+"environmental faecal contamination","vomiting",2,2,,1,"positive",2
+"environmental faecal contamination","water contamination",2,4,0,2,"positive",4
+"environmental faecal contamination","water quality",-3,-3,,1,"negative",3
+"environmental health","grazing",2,2,,1,"positive",2
+"environmental health","grazing nutritional quality",3,3,,1,"positive",3
+"environmental health","human health",2,2,,1,"positive",2
+"environmental health","livestock health",3,3,,1,"positive",3
+"environmental health","nutritious diet",2,2,,1,"positive",2
+"external herd immigration","livestock disease",3,3,,1,"positive",3
+"financial security","access to healthcare",1,1,,1,"positive",1
+"financial security","availability of medicines",2,6,0,3,"positive",6
+"financial security","food availability",0.5,1,3.53553390593274,2,"positive",1
+"financial security","food purchase",2.375,19,0.517549169506766,8,"positive",19
+"financial security","harvesting firewood for sale",-2,-2,,1,"negative",2
+"financial security","herd size",2.5,5,0.707106781186548,2,"positive",5
+"financial security","improved housing",2,6,0,3,"positive",6
+"financial security","informal moral economy practices",2,2,,1,"positive",2
+"financial security","insecurity & conflict",-2,-2,,1,"negative",2
+"financial security","livestock sale",2,2,,1,"positive",2
+"financial security","livestock supplementary feed",2.5,5,0.707106781186548,2,"positive",5
+"financial security","schooling",2.3125,18.5,0.458062690656452,8,"positive",18.5
+"financial security","traditional medicine",-2,-2,,1,"negative",2
+"flouride consumption","human health",-2,-2,,1,"negative",2
+"food availability","food purchase",-3,-6,0,2,"negative",6
+"food availability","food security",3,3,,1,"positive",3
+"food availability","human health",1,1,,1,"positive",1
+"food availability","livestock sale",-3,-3,,1,"negative",3
+"food availability","malnutrition",-2.90909090909091,-32,0.301511344577764,11,"negative",32
+"food availability","stress",-2,-2,,1,"negative",2
+"food purchase","dietary diversity",3,3,,1,"positive",3
+"food purchase","financial security",-2,-2,,1,"negative",2
+"food purchase","food availability",2.4,24,0.516397779494322,10,"positive",24
+"food purchase","food security",2.66666666666667,8,0.577350269189626,3,"positive",8
+"food purchase","household expenses",2.5,5,0.707106781186548,2,"positive",5
+"food purchase","livestock sale",1,1,,1,"positive",1
+"food purchase","malnutrition",-2,-2,,1,"negative",2
+"food purchase","nutritious diet",3,3,,1,"positive",3
+"food purchase","proportion of cereals in diet",3,3,,1,"positive",3
+"food safety challenges","human health",-1,-1,,1,"negative",1
+"food security","human productivity",2,2,,1,"positive",2
+"food security","malnutrition",-2.75,-11,0.5,4,"negative",11
+"gender equality","nutritious diet",3,3,,1,"positive",3
+"grazing","NGO support",-3,-3,,1,"negative",3
+"grazing","bushfire",2,2,,1,"positive",2
+"grazing","distance to grazing",-3,-9,0,3,"negative",9
+"grazing","external herd immigration",3,3,,1,"positive",3
+"grazing","herd size",3,6,0,2,"positive",6
+"grazing","insecurity & conflict",-1.75,-7,2.5,4,"negative",7
+"grazing","inter-community communication",-2,-2,,1,"negative",2
+"grazing","livestock body condition",3,33,0,11,"positive",33
+"grazing","livestock congregation",-2,-2,,1,"negative",2
+"grazing","livestock death",-2.66666666666667,-16,0.516397779494322,6,"negative",16
+"grazing","livestock health",2.8,14,0.447213595499958,5,"positive",14
+"grazing","livestock moved to distant pasture",-2.14285714285714,-15,0.377964473009227,7,"negative",15
+"grazing","livestock movement",-3,-3,,1,"negative",3
+"grazing","livestock population",2.875,23,0.353553390593274,8,"positive",23
+"grazing","livestock reproduction",3,3,,1,"positive",3
+"grazing","milk availability",2.66666666666667,16,0.516397779494322,6,"positive",16
+"grazing","mobility",-2.33333333333333,-14,0.516397779494322,6,"negative",14
+"grazing","overgrazing",-2,-4,0,2,"negative",4
+"grazing","remoteness of settlement",-2.33333333333333,-7,0.577350269189626,3,"negative",7
+"grazing","resource competition",-2.33333333333333,-7,0.577350269189626,3,"negative",7
+"grazing","seeking revenge",2,2,,1,"positive",2
+"grazing","communicating with networks to seek grazing",-2,-2,,1,"negative",2
+"grazing","grazing in National Parks",-2,-2,,1,"negative",2
+"grazing","herd splitting",-2,-2,,1,"negative",2
+"grazing nutritional quality","livestock body condition",2,2,,1,"positive",2
+"grazing nutritional quality","livestock disease",-3,-3,,1,"negative",3
+"grazing nutritional quality","livestock health",3,3,,1,"positive",3
+"grazing nutritional quality","livestock movement",-2,-2,,1,"negative",2
+"grazing nutritional quality","milk availability",2,2,,1,"positive",2
+"harvesting firewood for sale","deforestation",3,3,,1,"positive",3
+"health education","AMR",-2,-2,,1,"negative",2
+"health education","brucellosis",-2,-2,,1,"negative",2
+"health education","chemical water treatment",2.25,9,0.5,4,"positive",9
+"health education","dietary diversity",2,2,,1,"positive",2
+"health education","health seeking behaviour",2.5,5,0.707106781186548,2,"positive",5
+"health education","human vaccination",2,2,,1,"positive",2
+"health education","hygiene & sanitation",2,2,,1,"positive",2
+"health education","knowledge of HIV",3,3,,1,"positive",3
+"health education","malnutrition",-2.25,-4.5,0.353553390593274,2,"negative",4.5
+"health education","maternal health",2,2,,1,"positive",2
+"health education","nutritious diet",2,2,,1,"positive",2
+"health seeking behaviour","access to healthcare",2,2,,1,"positive",2
+"health seeking behaviour","human health",1.5,3,0.707106781186548,2,"positive",3
+"health seeking behaviour","traditional medicine",2,2,,1,"positive",2
+"healthcare facilities","access to healthcare",2.8,14,0.447213595499958,5,"positive",14
+"healthcare facilities","availability of medicines",2,6,1,3,"positive",6
+"healthcare facilities","chemical water treatment",1.66666666666667,5,0.577350269189626,3,"positive",5
+"healthcare facilities","diarrhoea",-2,-2,,1,"negative",2
+"healthcare facilities","health education",2.5,5,0.707106781186548,2,"positive",5
+"healthcare facilities","human health",2,8,0,4,"positive",8
+"healthcare facilities","malnutrition",-2,-2,,1,"negative",2
+"healthcare facilities","sedentarisation",2,2,,1,"positive",2
+"healthcare facilities","human death",-2,-2,,1,"negative",2
+"herd size","financial security",3,6,0,2,"positive",6
+"herd size","livestock population",2,2,,1,"positive",2
+"herd size","livestock sale",2,4,0,2,"positive",4
+"herd size","overgrazing",3,3,,1,"positive",3
+"hospital visits","financial security",-1.5,-3,0.707106781186548,2,"negative",3
+"hospital visits","food security",2,2,,1,"positive",2
+"hospital visits","household expenses",2.5,10,0.577350269189626,4,"positive",10
+"hospital visits","livestock sale",1,1,,1,"positive",1
+"hospital visits","human death",-2,-2,,1,"negative",2
+"household expenses","financial security",-2.66666666666667,-8,0.577350269189626,3,"negative",8
+"household expenses","food availability",-3,-3,,1,"negative",3
+"household expenses","livestock sale",3,6,0,2,"positive",6
+"human health","burden of caring for family",2,2,,1,"positive",2
+"human health","financial security",2,2,,1,"positive",2
+"human health","hospital visits",-2.2,-11,0.836660026534076,5,"negative",11
+"human health","household expenses",-2,-2,,1,"negative",2
+"human health","human productivity",3,3,,1,"positive",3
+"human health","human resources for herding livestock",0.5,1,3.53553390593274,2,"positive",1
+"human health","livestock sale",2,2,,1,"positive",2
+"human health","malnutrition",-2,-4,0,2,"negative",4
+"human health","medical costs",-3,-3,,1,"negative",3
+"human health","traditional medicine",-1,-1,,1,"negative",1
+"human health","human death",-2,-8,0.816496580927726,4,"negative",8
+"human health","transporting goods to herds in distant pasture",-3,-3,,1,"negative",3
+"human immunity","diarrhoea",-2,-2,,1,"negative",2
+"human immunity","human health",2.33333333333333,14,0.516397779494322,6,"positive",14
+"human population","climate change",1,1,,1,"positive",1
+"human population","deforestation",2,2,,1,"positive",2
+"human population","habitat degradation",2,2,,1,"positive",2
+"human population","harvesting firewood for sale",2,2,,1,"positive",2
+"human population","livestock population",2,2,,1,"positive",2
+"human population","overgrazing",3,3,,1,"positive",3
+"human population","overstocking",3,3,,1,"positive",3
+"human population","sedentarisation",3,3,,1,"positive",3
+"human productivity","herd size",3,3,,1,"positive",3
+"human productivity","schooling",2,2,,1,"positive",2
+"human resources for herding livestock","herd size",1,2,2.82842712474619,2,"positive",2
+"human resources for herding livestock","household expenses",2,2,,1,"positive",2
+"human resources for herding livestock","schooling",2,4,0,2,"positive",4
+"human vaccination","human health",3,3,,1,"positive",3
+"hygiene & sanitation","brucellosis",-2,-2,,1,"negative",2
+"hygiene & sanitation","diarrhoea",-2.5,-5,0.707106781186548,2,"negative",5
+"hygiene & sanitation","environmental faecal contamination",-2,-2,,1,"negative",2
+"hygiene & sanitation","human health",2,2,,1,"positive",2
+"hygiene & sanitation","skin conditions",-3,-3,,1,"negative",3
+"improved housing","human health",2,2,,1,"positive",2
+"improved housing","respiratory infections",-2,-2,,1,"negative",2
+"income diversification","deforestation",-2,-2,,1,"negative",2
+"income diversification","financial security",2,2,,1,"positive",2
+"income diversification","herd size",2,2,,1,"positive",2
+"indigenous knowledge & skills","food security",2,2,,1,"positive",2
+"indigenous knowledge & skills","human health",2,2,,1,"positive",2
+"informal governance","dry season grazing",3,6,0,2,"positive",6
+"informal governance","grazing",2.5,5,0.707106781186548,2,"positive",5
+"informal governance","insecurity & conflict",-3,-6,0,2,"negative",6
+"informal governance","livestock movement",2,2,,1,"positive",2
+"informal governance","water availability",2.5,5,0.707106781186548,2,"positive",5
+"informal governance","water contamination",-2.75,-11,0.5,4,"negative",11
+"informal moral economy practices","access to natural resources",3,3,,1,"positive",3
+"informal moral economy practices","financial security",3,3,,1,"positive",3
+"informal moral economy practices","grazing",2,2,,1,"positive",2
+"informal moral economy practices","informal governance",2,2,,1,"positive",2
+"informal moral economy practices","water availability",2,2,,1,"positive",2
+"insecurity & conflict","access to natural resources",-2,-2,,1,"negative",2
+"insecurity & conflict","grazing",-2.2,-11,0.836660026534076,5,"negative",11
+"insecurity & conflict","inter-community communication",-2,-4,0,2,"negative",4
+"insecurity & conflict","livestock death",2,6,0,3,"positive",6
+"insecurity & conflict","livestock moved to distant pasture",-2,-2,,1,"negative",2
+"insecurity & conflict","livestock movement",-2.5,-5,0.707106781186548,2,"negative",5
+"insecurity & conflict","livestock population",-2,-4,0,2,"negative",4
+"insecurity & conflict","mental health",-3,-3,,1,"negative",3
+"insecurity & conflict","mobility",-3,-3,,1,"negative",3
+"insecurity & conflict","seeking revenge",1.66666666666667,5,0.577350269189626,3,"positive",5
+"insecurity & conflict","human death",1.2,6,0.447213595499958,5,"positive",6
+"inter-community communication","access to natural resources",2,2,,1,"positive",2
+"inter-community communication","insecurity & conflict",-2.25,-9,0.5,4,"negative",9
+"invasive species","grazing nutritional quality",-3,-3,,1,"negative",3
+"jiggers","human health",-2,-4,0,2,"negative",4
+"kala azar","human health",-2,-4,0,2,"negative",4
+"kidney disease","human health",-2,-2,,1,"negative",2
+"knowledge of HIV","human health",2,2,,1,"positive",2
+"livestock body condition","livestock death",-2.66666666666667,-8,0.577350269189626,3,"negative",8
+"livestock body condition","livestock disease",-2.33333333333333,-7,0.577350269189626,3,"negative",7
+"livestock body condition","livestock movement",-3,-3,,1,"negative",3
+"livestock body condition","livestock population",2,2,,1,"positive",2
+"livestock body condition","livestock price",2.75,22,0.462910049886276,8,"positive",22
+"livestock body condition","livestock reproduction",3,3,,1,"positive",3
+"livestock body condition","livestock sale",2,4,0,2,"positive",4
+"livestock body condition","meat availability",2.5,5,0.707106781186548,2,"positive",5
+"livestock body condition","milk availability",2.83333333333333,17,0.408248290463863,6,"positive",17
+"livestock body condition","social disintegration",-1,-1,,1,"negative",1
+"livestock congregation","insecurity & conflict",1,1,,1,"positive",1
+"livestock congregation","livestock disease",2,2,,1,"positive",2
+"livestock congregation","overgrazing",2.5,5,0.707106781186548,2,"positive",5
+"livestock death","food availability",-3,-3,,1,"negative",3
+"livestock death","herd size",-2.75,-11,0.5,4,"negative",11
+"livestock death","livestock population",-2.375,-19,0.517549169506766,8,"negative",19
+"livestock death","livestock sale",-1.5,-3,0.707106781186548,2,"negative",3
+"livestock death","meat availability",-2.5,-5,0.707106781186548,2,"negative",5
+"livestock death","milk availability",-2.5,-10,0.577350269189626,4,"negative",10
+"livestock disease","grazing",-1,-1,,1,"negative",1
+"livestock disease","livestock body condition",-2.6,-26,0.516397779494322,10,"negative",26
+"livestock disease","livestock death",2.42857142857143,17,0.786795792469443,7,"positive",17
+"livestock disease","livestock health",-2.5,-5,0.707106781186548,2,"negative",5
+"livestock disease","livestock population",-2.36363636363636,-26,0.504524979109513,11,"negative",26
+"livestock disease","livestock price",-1,-1,,1,"negative",1
+"livestock disease","meat availability",-2,-2,,1,"negative",2
+"livestock exhaustion","livestock health",-2,-2,,1,"negative",2
+"livestock health","cultural preferences",-3,-3,,1,"negative",3
+"livestock health","food security",2,2,,1,"positive",2
+"livestock health","livestock death",-2.33333333333333,-7,0.577350269189626,3,"negative",7
+"livestock health","livestock population",3,6,0,2,"positive",6
+"livestock health","livestock price",3,3,,1,"positive",3
+"livestock health","livestock reproduction",3,3,,1,"positive",3
+"livestock health","livestock sale",2,4,0,2,"positive",4
+"livestock health","meat availability",1,3,2.64575131106459,3,"positive",3
+"livestock health","milk availability",1.25,5,2.21735578260835,4,"positive",5
+"livestock kept close to settlements","grazing",-3,-3,,1,"negative",3
+"livestock kept close to settlements","meat availability",2,2,,1,"positive",2
+"livestock kept close to settlements","milk availability",3,3,,1,"positive",3
+"livestock kept close to settlements","water contamination",2.5,5,0.707106781186548,2,"positive",5
+"livestock moved to distant pasture","access to natural resources",-2,-2,,1,"negative",2
+"livestock moved to distant pasture","food availability",-2.33333333333333,-7,0.577350269189626,3,"negative",7
+"livestock moved to distant pasture","food security",-3,-3,,1,"negative",3
+"livestock moved to distant pasture","insecurity & conflict",2.2,11,0.447213595499958,5,"positive",11
+"livestock moved to distant pasture","kala azar",2,2,,1,"positive",2
+"livestock moved to distant pasture","livestock body condition",-2,-2,,1,"negative",2
+"livestock moved to distant pasture","livestock congregation",2,2,,1,"positive",2
+"livestock moved to distant pasture","livestock death",2,2,,1,"positive",2
+"livestock moved to distant pasture","livestock disease",2,2,,1,"positive",2
+"livestock moved to distant pasture","livestock exhaustion",2,2,,1,"positive",2
+"livestock moved to distant pasture","livestock sale",-2.5,-5,0.707106781186548,2,"negative",5
+"livestock moved to distant pasture","livestock supplementary feed",2,2,,1,"positive",2
+"livestock moved to distant pasture","meat availability",-2.5,-5,0.707106781186548,2,"negative",5
+"livestock moved to distant pasture","milk availability",-2.375,-19,0.517549169506766,8,"negative",19
+"livestock moved to distant pasture","resource competition",2.33333333333333,7,0.577350269189626,3,"positive",7
+"livestock moved to distant pasture","water availability",-2,-2,,1,"negative",2
+"livestock movement","grazing",3,3,,1,"positive",3
+"livestock movement","livestock body condition",3,3,,1,"positive",3
+"livestock population","financial security",2.5,5,0.707106781186548,2,"positive",5
+"livestock population","food security",3,3,,1,"positive",3
+"livestock population","grazing",-2.5,-5,0.707106781186548,2,"negative",5
+"livestock population","human resources for herding livestock",-3,-3,,1,"negative",3
+"livestock population","livestock price",-2,-4,0,2,"negative",4
+"livestock population","livestock sale",2.11111111111111,19,0.600925212577332,9,"positive",19
+"livestock population","meat availability",2.66666666666667,8,0.577350269189626,3,"positive",8
+"livestock population","mental health",2,2,,1,"positive",2
+"livestock population","milk availability",2.75,22,0.462910049886276,8,"positive",22
+"livestock population","overgrazing",3,3,,1,"positive",3
+"livestock population","water contamination",2.75,11,0.5,4,"positive",11
+"livestock price","financial security",2.5,5,0.707106781186548,2,"positive",5
+"livestock price","livestock sale",2.5,10,0.577350269189626,4,"positive",10
+"livestock reproduction","herd size",2,2,,1,"positive",2
+"livestock reproduction","livestock population",2.66666666666667,8,0.577350269189626,3,"positive",8
+"livestock sale","financial security",2.66666666666667,8,0.577350269189626,3,"positive",8
+"livestock sale","food purchase",3,3,,1,"positive",3
+"livestock sale","livestock population",-2,-2,,1,"negative",2
+"livestock sale","meat availability",-2,-2,,1,"negative",2
+"livestock supplementary feed","household expenses",1,1,,1,"positive",1
+"livestock supplementary feed","livestock body condition",1,1,,1,"positive",1
+"livestock vaccination","livestock disease",-2.33333333333333,-14,0.516397779494322,6,"negative",14
+"livestock vaccination","livestock health",2,2,,1,"positive",2
+"malaria","human health",-1.875,-15,0.640869944461656,8,"negative",15
+"malaria","human productivity",-3,-3,,1,"negative",3
+"malaria","human death",1,1,,1,"positive",1
+"malnutrition","diarrhoea",2,2,,1,"positive",2
+"malnutrition","human health",-2.71428571428571,-19,0.487950036474267,7,"negative",19
+"malnutrition","human immunity",-2.2,-11,0.447213595499958,5,"negative",11
+"malnutrition","maternal health",-2,-6,0,3,"negative",6
+"malnutrition","schooling",-2,-2,,1,"negative",2
+"malnutrition","sickness in children <5",2,2,,1,"positive",2
+"malnutrition","human death",1,2,0,2,"positive",2
+"maternal health","human health",2,8,0,4,"positive",8
+"maternal health","malnutrition",-2,-2,,1,"negative",2
+"maternal health","sickness in children <5",-1,-1,,1,"negative",1
+"maternal health","human death",-2,-2,,1,"negative",2
+"meat availability","food availability",2,4,0,2,"positive",4
+"meat availability","food security",2.42857142857143,17,0.786795792469443,7,"positive",17
+"meat availability","malnutrition",-3,-6,0,2,"negative",6
+"meat availability","nutritious diet",2.5,5,0.707106781186548,2,"positive",5
+"medical costs","financial security",-2,-2,,1,"negative",2
+"medical costs","health seeking behaviour",-2,-4,0,2,"negative",4
+"medical costs","household expenses",2.5,5,0.707106781186548,2,"positive",5
+"medical outreach programs","access to healthcare",2.83333333333333,8.5,0.288675134594813,3,"positive",8.5
+"medical outreach programs","availability of medicines",2,2,,1,"positive",2
+"medical outreach programs","chemical water treatment",3,3,,1,"positive",3
+"medical outreach programs","health education",2.33333333333333,7,0.577350269189626,3,"positive",7
+"medical outreach programs","human health",2,4,0,2,"positive",4
+"medical outreach programs","human vaccination",2.66666666666667,8,0.577350269189626,3,"positive",8
+"medical outreach programs","maternal health",3,3,,1,"positive",3
+"mental health","human health",-2,-2,,1,"negative",2
+"milk availability","food availability",2.6,13,0.547722557505166,5,"positive",13
+"milk availability","food purchase",-3,-6,0,2,"negative",6
+"milk availability","food security",2.28571428571429,16,0.755928946018454,7,"positive",16
+"milk availability","household expenses",-2,-2,,1,"negative",2
+"milk availability","human immunity",2,2,,1,"positive",2
+"milk availability","malnutrition",-2,-20,1.88561808316413,10,"negative",20
+"milk availability","maternal health",-2,-2,,1,"negative",2
+"milk availability","nutritious diet",2.5,5,0.707106781186548,2,"positive",5
+"mobility","access to healthcare",-3,-6,0,2,"negative",6
+"mobility","access to natural resources",2,2,,1,"positive",2
+"mobility","cross-boundary diseases",3,3,,1,"positive",3
+"mobility","diarrhoea",1,1,,1,"positive",1
+"mobility","livestock disease",2,2,,1,"positive",2
+"mobility","meat availability",-2,-2,,1,"negative",2
+"mobility","milk availability",-2,-2,,1,"negative",2
+"mobility","schooling",-3,-3,,1,"negative",3
+"mobility","sedentarisation",-2.75,-11,0.5,4,"negative",11
+"natural resource management","climate change",-2,-2,,1,"negative",2
+"natural resource management","deforestation",-2,-2,,1,"negative",2
+"natural resource management","environmental faecal contamination",-3,-3,,1,"negative",3
+"natural resource management","protected water infrastructure",2,2,,1,"positive",2
+"natural resource management","water availability",3,3,,1,"positive",3
+"natural resource management","water contamination",-3,-6,0,2,"negative",6
+"new settlers","grazing",-3,-3,,1,"negative",3
+"new settlers","informal governance",-2,-2,,1,"negative",2
+"new settlers","livestock population",2,4,0,2,"positive",4
+"new settlers","resource competition",2,2,,1,"positive",2
+"new settlers","water availability",-2,-2,,1,"negative",2
+"new settlers","water contamination",2.5,5,0.707106781186548,2,"positive",5
+"non-communicable disease","human health",-2,-4,0,2,"negative",4
+"nutritious diet","food security",-2,-2,,1,"negative",2
+"nutritious diet","human health",2.5,5,0.707106781186548,2,"positive",5
+"nutritious diet","malnutrition",-3,-9,0,3,"negative",9
+"nutritious diet","maternal health",2,2,,1,"positive",2
+"nutritious diet","sickness in children <5",-2,-2,,1,"negative",2
+"overgrazing","environmental health",-3,-3,,1,"negative",3
+"overgrazing","grazing",-2.5,-5,0.707106781186548,2,"negative",5
+"overgrazing","livestock supplementary feed",3,3,,1,"positive",3
+"overgrazing","rangeland health",-3,-3,,1,"negative",3
+"overgrazing","soil erosion",2,2,,1,"positive",2
+"overstocking","overgrazing",2.5,5,0.707106781186548,2,"positive",5
+"pneumonia","human health",-2,-2,,1,"negative",2
+"pneumonia","sickness in children <5",2,2,,1,"positive",2
+"pox","livestock health",-2,-2,,1,"negative",2
+"proportion of cereals in diet","nutritious diet",-3,-3,,1,"negative",3
+"protected water infrastructure","FMD",2,2,,1,"positive",2
+"protected water infrastructure","PPR",2,2,,1,"positive",2
+"protected water infrastructure","insecurity & conflict",2,2,,1,"positive",2
+"protected water infrastructure","livestock congregation",3,3,,1,"positive",3
+"protected water infrastructure","livestock population",3,3,,1,"positive",3
+"protected water infrastructure","overgrazing",2,2,,1,"positive",2
+"protected water infrastructure","rangeland health",-2,-4,0,2,"negative",4
+"protected water infrastructure","sedentarisation",2,4,0,2,"positive",4
+"protected water infrastructure","water availability",2.46153846153846,32,0.518874521662771,13,"positive",32
+"protected water infrastructure","water contamination",-3,-3,,1,"negative",3
+"protected water infrastructure","water quality",2.33333333333333,7,0.577350269189626,3,"positive",7
+"protected water infrastructure","water salinity",2,2,,1,"positive",2
+"rainfall","RVF",2.5,5,0.707106781186548,2,"positive",5
+"rainfall","bushfire",-3,-3,,1,"negative",3
+"rainfall","cold, damp environment",2.33333333333333,7,0.577350269189626,3,"positive",7
+"rainfall","diarrhoea",2,4,0,2,"positive",4
+"rainfall","drought",-3,-81,0,27,"negative",81
+"rainfall","food security",3,3,,1,"positive",3
+"rainfall","grazing",2.89473684210526,55,0.315301767642306,19,"positive",55
+"rainfall","grazing nutritional quality",3,6,0,2,"positive",6
+"rainfall","informal governance",-3,-3,,1,"negative",3
+"rainfall","livestock disease",3,6,0,2,"positive",6
+"rainfall","livestock kept close to settlements",3,6,0,2,"positive",6
+"rainfall","livestock moved to distant pasture",-3,-3,,1,"negative",3
+"rainfall","livestock supplementary feed",-3,-3,,1,"negative",3
+"rainfall","malaria",2.5,10,0.577350269189626,4,"positive",10
+"rainfall","meat availability",3,3,,1,"positive",3
+"rainfall","milk availability",3,3,,1,"positive",3
+"rainfall","new settlers",-3,-3,,1,"negative",3
+"rainfall","pneumonia",2,2,,1,"positive",2
+"rainfall","rangeland health",3,3,,1,"positive",3
+"rainfall","respiratory infections",2.4,12,0.547722557505166,5,"positive",12
+"rainfall","vector populations",2.6875,21.5,0.458062690656452,8,"positive",21.5
+"rainfall","water availability",2.86363636363636,63,0.351250086657104,22,"positive",63
+"rainfall","water contamination",2.33333333333333,14,0.516397779494322,6,"positive",14
+"rainfall","water quality",-1.33333333333333,-4,2.88675134594813,3,"negative",4
+"rainfall","water salinity",-2,-4,0,2,"negative",4
+"rainfall predictability","grazing",0.5,1,3.53553390593274,2,"positive",1
+"rainfall predictability","mobility",2,2,,1,"positive",2
+"rainfall predictability","rainfall",2,2,,1,"positive",2
+"rainfall predictability","resource competition",-2,-2,,1,"negative",2
+"rainfall predictability","water availability",-2,-2,,1,"negative",2
+"rangeland health","food security",3,3,,1,"positive",3
+"rangeland health","grazing",3,3,,1,"positive",3
+"rangeland health","livestock health",2,4,0,2,"positive",4
+"rangeland health","livestock movement",-2,-2,,1,"negative",2
+"rangeland health","malnutrition",-3,-3,,1,"negative",3
+"rangeland health","mobility",3,3,,1,"positive",3
+"rangeland management","grazing",2,2,,1,"positive",2
+"remoteness of settlement","access to healthcare",-2.33333333333333,-7,0.577350269189626,3,"negative",7
+"remoteness of settlement","food availability",-3,-3,,1,"negative",3
+"remoteness of settlement","water availability",-2,-4,0,2,"negative",4
+"resource competition","insecurity & conflict",2,12,2.44948974278318,6,"positive",12
+"resource competition","inter-community communication",3,3,,1,"positive",3
+"resource competition","water availability",-2,-2,,1,"negative",2
+"resource uncertainty","access to natural resources",-2,-2,,1,"negative",2
+"resource uncertainty","drought",2,2,,1,"positive",2
+"resource uncertainty","income diversification",3,3,,1,"positive",3
+"resource uncertainty","mobility",3,3,,1,"positive",3
+"respiratory infections","hospital visits",2,2,,1,"positive",2
+"respiratory infections","human health",-2.25,-18,0.462910049886276,8,"negative",18
+"respiratory infections","pneumonia",1,1,,1,"positive",1
+"salty water consumption","diarrhoea",1.5,3,0.707106781186548,2,"positive",3
+"salty water consumption","livestock health",2,2,,1,"positive",2
+"salty water consumption","respiratory infections",2,2,,1,"positive",2
+"schooling","chemical water treatment",2,2,,1,"positive",2
+"schooling","deforestation",-2,-2,,1,"negative",2
+"schooling","financial security",-1.85714285714286,-13,1.77281052085584,7,"negative",13
+"schooling","health seeking behaviour",2,4,0,2,"positive",4
+"schooling","household expenses",3,18,0,6,"positive",18
+"schooling","human resources for herding livestock",-2.66666666666667,-8,0.577350269189626,3,"negative",8
+"schooling","hygiene & sanitation",3,3,,1,"positive",3
+"schooling","income diversification",2.66666666666667,8,0.577350269189626,3,"positive",8
+"schooling","indigenous knowledge & skills",-2,-2,,1,"negative",2
+"schooling","livestock movement",-3,-3,,1,"negative",3
+"schooling","livestock sale",3,3,,1,"positive",3
+"schooling","mobility",-2,-2,,1,"negative",2
+"schooling","sedentarisation",2.6,26,0.516397779494322,10,"positive",26
+"sedentarisation","cross-boundary diseases",-2,-2,,1,"negative",2
+"sedentarisation","deforestation",-2,-2,,1,"negative",2
+"sedentarisation","dry season grazing",-3,-3,,1,"negative",3
+"sedentarisation","environmental faecal contamination",2,2,,1,"positive",2
+"sedentarisation","food availability",-2,-2,,1,"negative",2
+"sedentarisation","food purchase",3,3,,1,"positive",3
+"sedentarisation","grazing",-2.5,-5,0.707106781186548,2,"negative",5
+"sedentarisation","healthcare facilities",1,1,,1,"positive",1
+"sedentarisation","hygiene & sanitation",-3,-3,,1,"negative",3
+"sedentarisation","improved housing",2,2,,1,"positive",2
+"sedentarisation","livestock moved to distant pasture",-3,-3,,1,"negative",3
+"sedentarisation","mobility",-2.5,-5,0.707106781186548,2,"negative",5
+"sedentarisation","remoteness of settlement",2,2,,1,"positive",2
+"sedentarisation","schooling",2.4,12,0.547722557505166,5,"positive",12
+"sedentarisation","vector populations",2,2,,1,"positive",2
+"sedentarisation","water contamination",2,2,,1,"positive",2
+"sedentarisation","water quality",-3,-3,,1,"negative",3
+"seeking revenge","insecurity & conflict",1.66666666666667,5,0.577350269189626,3,"positive",5
+"sickness in children <5","human death",2,2,,1,"positive",2
+"skin conditions","human health",-2,-2,,1,"negative",2
+"snakebite","human health",-2,-2,,1,"negative",2
+"snakebite","livestock death",2,4,0,2,"positive",4
+"snakebite","livestock population",-1,-1,,1,"negative",1
+"social disintegration","human health",-1,-1,,1,"negative",1
+"social disintegration","rainfall predictability",-2,-2,,1,"negative",2
+"soil erosion","grazing",-2,-2,,1,"negative",2
+"stress","human health",-2,-2,,1,"negative",2
+"traditional medicine","diarrhoea",-2,-2,,1,"negative",2
+"traditional medicine","health seeking behaviour",-2,-8,0,4,"negative",8
+"traditional medicine","sickness in children <5",-1,-1,,1,"negative",1
+"tree planting","environmental health",3,3,,1,"positive",3
+"tree planting","soil erosion",-3,-3,,1,"negative",3
+"ulcers","hospital visits",2,2,,1,"positive",2
+"ulcers","human health",-2,-2,,1,"negative",2
+"unplanned settlement","deforestation",3,3,,1,"positive",3
+"unplanned settlement","livestock movement",-2,-2,,1,"negative",2
+"unplanned settlement","overgrazing",3,3,,1,"positive",3
+"vector populations","human health",-2,-4,0,2,"negative",4
+"vector populations","kala azar",2,2,,1,"positive",2
+"vector populations","livestock body condition",-3,-3,,1,"negative",3
+"vector populations","livestock disease",1.5625,12.5,1.49851116588623,8,"positive",12.5
+"vector populations","livestock health",-2.5,-5,0.707106781186548,2,"negative",5
+"vector populations","livestock moved to distant pasture",2,2,,1,"positive",2
+"vector populations","malaria",2.25,9,0.5,4,"positive",9
+"vector populations","sedentarisation",2,2,,1,"positive",2
+"vegetation cover","grazing",2,2,,1,"positive",2
+"vegetation cover","soil erosion",-2,-2,,1,"negative",2
+"vegetation cover","water availability",-2,-2,,1,"negative",2
+"vomiting","human health",-2,-6,0,3,"negative",6
+"water availability","distance to grazing",-2,-2,,1,"negative",2
+"water availability","grazing",1.25,5,2.87228132326901,4,"positive",5
+"water availability","herd size",3,3,,1,"positive",3
+"water availability","hygiene & sanitation",2.5,5,0.707106781186548,2,"positive",5
+"water availability","insecurity & conflict",-0.666666666666667,-2,3.21455025366432,3,"negative",2
+"water availability","livestock body condition",2.6,13,0.547722557505166,5,"positive",13
+"water availability","livestock congregation",-3,-3,,1,"negative",3
+"water availability","livestock death",-3,-3,,1,"negative",3
+"water availability","livestock health",3,3,,1,"positive",3
+"water availability","livestock moved to distant pasture",-2.5,-5,0.707106781186548,2,"negative",5
+"water availability","livestock movement",-3,-6,0,2,"negative",6
+"water availability","livestock population",2.75,11,0.5,4,"positive",11
+"water availability","milk availability",2.33333333333333,7,0.577350269189626,3,"positive",7
+"water availability","mobility",-2,-2,,1,"negative",2
+"water availability","new settlers",2,2,,1,"positive",2
+"water availability","resource competition",-2,-6,0,3,"negative",6
+"water availability","sedentarisation",3,6,0,2,"positive",6
+"water availability","seeking revenge",2,2,,1,"positive",2
+"water availability","tree planting",3,3,,1,"positive",3
+"water availability","water contamination",-2.5,-10,0.577350269189626,4,"negative",10
+"water availability","water quality",3,3,,1,"positive",3
+"water availability","herd splitting",-2,-2,,1,"negative",2
+"water contamination","cancer",2,4,0,2,"positive",4
+"water contamination","diarrhoea",3,3,,1,"positive",3
+"water contamination","livestock death",2,2,,1,"positive",2
+"water contamination","livestock health",-1,-1,,1,"negative",1
+"water contamination","livestock movement",-1,-1,,1,"negative",1
+"water contamination","water quality",-2.84210526315789,-54,0.374634324632678,19,"negative",54
+"water contamination","water-borne disease",3,6,0,2,"positive",6
+"water quality","cancer",2,2,,1,"positive",2
+"water quality","diarrhoea",-2.80952380952381,-59,0.511766315719159,21,"negative",59
+"water quality","human health",2.6,13,0.547722557505166,5,"positive",13
+"water quality","livestock disease",-2,-4,0,2,"negative",4
+"water quality","respiratory infections",-2,-2,,1,"negative",2
+"water quality","vomiting",-3,-9,0,3,"negative",9
+"water quality","water availability",1,3,1.73205080756888,3,"positive",3
+"water quality","water-borne disease",-3,-3,,1,"negative",3
+"water salinity","abdominal pain",2,2,,1,"positive",2
+"water salinity","human health",-2,-2,,1,"negative",2
+"water salinity","kidney disease",2,2,,1,"positive",2
+"water salinity","livestock body condition",3,3,,1,"positive",3
+"water salinity","livestock health",2,2,,1,"positive",2
+"water salinity","livestock population",-1,-1,,1,"negative",1
+"water salinity","water quality",-2,-6,0,3,"negative",6
+"water-borne disease","human health",-2,-4,0,2,"negative",4
+"water-borne disease","livestock body condition",-2,-2,,1,"negative",2
+"zoonotic diseases","human health",-3,-3,,1,"negative",3

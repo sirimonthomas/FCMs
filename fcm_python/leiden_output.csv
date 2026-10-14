@@ -1,0 +1,456 @@
+node,community,pc_leiden
+AMR,5,0.8888888888888888
+human health,3,0.9405469678953626
+CCPP,1,1.0
+livestock disease,1,0.9704142011834319
+livestock health,1,0.9559228650137741
+Community Disease Reporters (CDRs),1,0.9375
+innapropriate use of veterinary medicines,1,0.9375
+livestock vaccination,1,0.7901234567901234
+veterinary services,1,0.9204152249134948
+FMD,7,0.75
+HIV,3,1.0
+human immunity,3,0.7999999999999999
+stigma,3,1.0
+NGO support,5,0.9549004787100025
+NGOs substituting government functions,5,1.0
+Plumpy nut,5,0.75
+access to healthcare,3,0.9444444444444444
+attention to cultural preference,5,1.0
+availability of chemical water treatments,5,0.8888888888888888
+availability of medicines,3,0.9511111111111111
+business training,5,0.75
+capacity building,5,0.90625
+cash transfers,5,0.8775510204081632
+chemical water treatment,4,0.8214285714285714
+community forest associations,5,0.8888888888888888
+community health workers,5,0.9183673469387755
+desalination,5,0.75
+distance to school,5,0.7777777777777778
+emotional/cultural importance of livestock,8,0.6875
+feeding programs,6,0.8888888888888888
+food aid,5,0.8844444444444445
+food availability,6,0.9225712198685172
+formal governance structures,5,0.8096885813148789
+formal gvernance structures,5,0.8888888888888888
+functionality of developed water infrastructure,7,0.96
+gender equality,5,0.9299999999999999
+government financial capacity,5,0.9173553719008265
+groundwater use,3,0.8611111111111112
+growing cash and food crops,6,0.916955017301038
+health education,5,0.8739669421487604
+healthcare facilities,3,0.86328125
+herd size,0,0.9260355029585798
+human vaccination,5,0.9722222222222222
+income,0,0.9309090909090909
+inter-community communication,2,0.8765432098765432
+involvement in women's group,5,0.9074074074074074
+kitchen gardens,5,0.7
+livestock death,1,0.9136
+livestock supplementary feed,0,0.85
+maintenance of infrastructure,7,0.7999999999999999
+maternal health,6,0.8512396694214877
+medical outreach programs,5,0.82
+modernisation,0,0.9752066115702479
+natural resource management,4,0.8950617283950617
+pasture production,6,0.875
+poorly designed development projects,2,0.97
+poultry keeping,5,1.0
+protected water infrastructure,7,0.8896
+running businesses,0,0.64
+schooling,0,0.9578189300411523
+sustainability of interventions,5,0.9444444444444444
+toilet facilities,4,0.8842975206611571
+vector control programs,5,1.0
+water storage infrastructure,7,0.7346938775510204
+water trucking,7,0.828125
+wildlife conservation,2,0.9173553719008265
+government,5,0.9367603550295858
+Orf,1,1.0
+PPR,7,0.75
+malnutrition,6,0.8881172839506173
+RVF,1,0.9375
+Severe Acute Malnutrition (SAM),4,0.7777777777777778
+hospital visits,3,0.91796875
+abdominal pain,3,0.75
+ability to advocate for community,0,0.9375
+formal employment,0,0.9501385041551247
+ability to give gifts & share resources,6,0.8775510204081632
+resource sharing,6,0.8671875
+social capital,2,0.8339100346020761
+acaracide use,1,0.9375
+vector populations,1,0.93359375
+access to government services,0,1.0
+sedentarisation,0,0.9444
+cancer,3,0.94921875
+non-communicable disease,3,1.0
+severity of cases presenting to hospital,3,1.0
+traditional medicine,3,0.9408284023668639
+access to information,0,1.0
+alternative energy use,0,0.8888888888888888
+income diversification,0,0.9444444444444444
+access to natural resources,2,0.9795918367346939
+grazing,1,0.9522684310018904
+insecurity & conflict,2,0.9693047337278107
+adherence to drug use regulations,5,1.0
+aid dependency,6,0.75
+food security,6,0.9441141498216409
+alcohol & drug use,3,0.7999999999999999
+human death,3,0.9279778393351801
+kidney disease,3,0.8888888888888888
+laziness,0,0.75
+harvesting firewood for sale,0,0.8611111111111112
+anaemia,6,1.0
+anthrax,2,0.8888888888888888
+association with church,5,0.75
+proportion of cereals in diet,5,0.875
+availability of fruit and vegetables,6,0.9173553719008265
+availability of loans,0,0.9583333333333334
+financial security,0,0.95625
+food purchase,0,0.888
+market access,0,0.9467455621301775
+purchase of female livestock,1,0.75
+school fees,0,1.0
+diarrhoea,4,0.8910034602076125
+sickness in children <5,3,0.84375
+availability of technicians,7,0.75
+availability of weapons,2,0.9722222222222222
+livestock theft & raiding,2,0.9259259259259259
+police arrests,2,0.75
+weapon confiscation by police,2,1.0
+behaviour change,0,0.8979591836734694
+commercialisation of livestock production,0,0.9583333333333334
+dietary diversity,6,0.875
+boiling water as treatment,4,1.0
+water quality,4,0.9625246548323472
+border porosity,2,0.7777777777777778
+cross-boundary diseases,0,0.76
+brucellosis,3,0.88
+burden of caring for family,3,0.75
+burden on groundwater resources,7,0.96
+overabstraction,7,1.0
+water availability,7,0.9095566941412341
+burden on health infrastructure,2,0.8888888888888888
+vulnerability to health crises,2,0.8888888888888888
+bush encroachment,1,0.75
+deforestation,8,0.7988165680473372
+bushfire,1,1.0
+buyer-seller bilateral relationship,2,1.0
+uncoordinated value chain,2,1.0
+sickness of women,3,1.0
+drought resilience,2,0.8922495274102079
+carbon credit schemes,2,0.88
+poor water taste,4,1.0
+water contamination,4,0.896551724137931
+childcare,3,0.875
+life opportunities,3,0.8888888888888888
+children remain at home to herd livestock,3,1.0
+early marriage,3,1.0
+civil service human resources,5,0.859375
+cold chain infrastructure,2,0.84
+implementation of legislation,5,0.7999999999999999
+livestock disease management,1,0.8775510204081632
+public health services,5,0.75
+clean air,4,1.0
+cough,4,1.0
+climate change,1,0.9173553719008265
+drought,1,0.9153463105477592
+environmental health,1,0.9135802469135803
+rainfall,1,0.9054820415879017
+rainfall predictability,1,0.8958333333333334
+resource uncertainty,2,0.8333333333333333
+post-harvest losses,2,1.0
+transaction costs,2,0.88
+"cold, damp environment",3,0.84
+pneumonia,3,0.96
+respiratory infections,3,0.9
+combining livestock herds,1,0.8888888888888888
+cost of keeping livestock,1,1.0
+commercial interest in pastoral areas,2,0.875
+large infrastructure development projects,2,1.0
+improved breeds,0,0.875
+livestock sale,0,0.9314128943758574
+overstocking,8,0.8888888888888888
+commodification,0,1.0
+formalized moral economy practices,0,0.9387755102040817
+communal land tenure,8,1.0
+overgrazing,8,0.826530612244898
+health seeking behaviour,3,0.9489795918367347
+treatment follow up,5,0.75
+competition for space,2,1.0
+mobility,2,0.90234375
+consumerism,8,1.0
+livestock offtake,8,0.8888888888888888
+unplanned settlement,8,0.9444444444444444
+consumption of infected/contaminated meat,3,0.875
+contaminated water consumption,4,0.9822485207100592
+vomiting,4,0.9375
+cooking,7,0.75
+coordination between NGOs,5,0.9375
+duplication of NGO efforts,5,1.0
+efficacy of interventions,5,1.0
+corruption & bribery,2,0.75
+cost of mobility,2,1.0
+cost of providing healthcare,3,0.8888888888888888
+county government,3,0.7777777777777778
+coxidiosis,1,1.0
+crisis state,7,0.7777777777777778
+crop harvest,6,0.9
+crop pests,6,1.0
+pesticide use,6,1.0
+cultural preferences,3,0.8864265927977839
+egg consumption,6,0.75
+female genital mutilation,3,1.0
+financial management,3,0.75
+informal governance,4,0.8902606310013718
+male ownership of livestock,5,0.875
+open defacation,4,0.9421487603305785
+debt,0,0.8888888888888888
+defence of resources,2,0.875
+habitat degradation,8,1.0
+vegetation cover,1,0.88
+dehydration,3,0.75
+delivery of food supplies,6,0.9444444444444444
+demand for fruit and vegetables,6,0.75
+demand for herding labour,0,0.7777777777777778
+demand for water,7,0.75
+dependence on livestock,0,0.8888888888888888
+dependence on social capital,0,0.921875
+desertification,3,0.875
+devolution of government,5,1.0
+dialogue on future of pastoralism & culture,3,0.8888888888888888
+human productivity,3,0.7755102040816326
+human resources for herding livestock,0,0.9555555555555556
+missed school,3,0.75
+nutritious diet,6,0.9112426035502958
+difficulty in selling livestock,0,0.75
+digging shallow wells,7,1.0
+dirty water storage containers,4,0.8888888888888888
+disease outbreaks,7,0.8611111111111112
+zoonotic diseases,3,0.75
+disease transmission,7,1.0
+distance to grazing,1,0.8888888888888888
+livestock moved to distant pasture,2,0.8795013850415513
+livestock movement,1,0.9540816326530612
+milk availability,6,0.8567493112947658
+transporting good to herds in distant pasture,0,0.8888888888888888
+distance to water,4,0.9199999999999999
+female work load,4,0.890625
+livestock body condition,1,0.9344432882414152
+use of shallow wells,4,0.98
+drinking very hot tea,3,1.0
+drinking water availability,1,0.7777777777777778
+dust,1,0.7777777777777778
+harvesting tree gum for sale,1,0.8888888888888888
+harvesting tubers,1,1.0
+livestock population,1,0.9051851851851852
+livestock price,0,0.75
+livestock slaughter,6,0.75
+livestock to carry household possessions,0,0.8395061728395061
+malaria,3,0.84375
+meat availability,6,0.82
+mental health,1,0.875
+move to population centers,7,0.8125
+natural materials for housing,1,0.75
+new settlers,1,0.8888888888888888
+shift to camel keeping,7,0.8125
+surface water availability,4,0.84
+switching to alternative water sources,4,0.75
+travel to distant water sources,6,0.8788927335640139
+water purchase,4,0.8125
+dry season grazing,4,0.88
+duration of stay in wet season grazing,4,1.0
+early action,0,1.0
+early pregnancy,3,1.0
+education levels,0,1.0
+pressure to send children to school,0,1.0
+enterotoxaemia,1,1.0
+environmental faecal contamination,4,0.9585798816568047
+grazing nutritional quality,1,0.984375
+ephemeral plant species,4,1.0
+exclusion of pastoralists from resources,2,0.984375
+exhaustion,6,0.875
+hunger,6,1.0
+expenditure on transport,7,0.7777777777777778
+expenses,0,1.0
+external funding,5,1.0
+external herd immigration,1,0.8888888888888888
+rabies,6,0.75
+families with no livestock,6,0.8888888888888888
+family members in employment,0,1.0
+remittances,0,0.9876543209876543
+family size,0,1.0
+fear of conflict,2,0.8888888888888888
+stress,6,0.88
+fear of medical procedures,3,1.0
+female education,0,1.0
+female headed household,0,0.75
+financial contribution to women's group,5,1.0
+improved housing,0,0.8888888888888888
+informal loans,0,0.75
+informal moral economy practices,7,0.9027777777777778
+investment options,0,1.0
+involuntary human migration,8,0.7777777777777778
+livestock purchase,0,0.96
+political pressure,2,0.8775510204081632
+pooling financial resources,7,0.75
+prestige,0,0.8888888888888888
+private water infrastructure,0,0.8888888888888888
+protection of water against theft,4,0.7777777777777778
+purchasing on credit,0,0.8844444444444445
+tool & seed purchase,6,0.75
+transport,3,0.8940972222222222
+voluntary migration,0,1.0
+flooding,1,1.0
+flouride consumption,3,1.0
+food safety challenges,5,0.75
+consumption of blood,6,1.0
+household expenses,0,0.9030470914127424
+protein in diet,0,1.0
+foor purchase,6,1.0
+idleness,0,0.8888888888888888
+private investment in community,0,0.9375
+women's financial independence,5,0.75
+rangeland management,5,0.75
+labour,7,0.9199999999999999
+fragmentation of rangelands,2,0.9375
+rangeland health,1,0.9112426035502958
+free grazing,4,0.75
+god,1,1.0
+social disintegration,1,0.9375
+dams & pans,5,1.0
+military presence,2,0.9375
+road infrastructure,3,0.8858131487889274
+poor timing of disease control,5,0.75
+government intervention,2,0.75
+government investment in pastoral areas,2,0.9753086419753086
+green investment,2,1.0
+government planning for pastoral areas,2,0.9591836734693877
+communicating with networks to seek grazing,1,1.0
+grazing in National Parks,1,1.0
+herd splitting,7,0.75
+livestock congregation,7,0.8888888888888888
+livestock reproduction,1,0.96
+remoteness of settlement,3,0.89
+resource competition,2,0.8264462809917356
+seeking revenge,2,0.9199999999999999
+heavy metal consumption,3,0.8888888888888888
+human wildlife conflict,8,0.75
+haemorrhagic sceptacaemia,1,1.0
+hand washing,4,1.0
+harsh environmental conditions,7,1.0
+hygiene & sanitation,4,0.8925619834710744
+knowledge of HIV,5,0.75
+use of ash as floculant and water treatment,4,0.9375
+water treatment,5,0.7777777777777778
+heartwater,1,1.0
+herding skills,1,1.0
+wildlife predation,1,0.8979591836734694
+herds in smallholder agriculture areas,2,1.0
+household possessions,2,1.0
+medical costs,3,0.75
+transporting goods to herds in distant pasture,3,1.0
+human population,8,0.9099999999999999
+labour costs,2,0.8888888888888888
+hunting bushmeat,6,1.0
+salmonella,4,1.0
+skin conditions,7,0.7777777777777778
+land use planning,1,0.75
+payment for grazing,0,0.9199999999999999
+pruchase of non-food items,0,1.0
+informal economy,0,1.0
+indigenous knowledge & skills,6,0.7777777777777778
+financial contribution for water management,4,1.0
+unprotected water sources,4,1.0
+water rationing,7,0.75
+pooling labour,7,1.0
+intolerance of pastoralists,2,0.8888888888888888
+understanding of each other,2,1.0
+invasive species,1,1.0
+maternal and neonatal support,5,1.0
+well digging,7,0.75
+jiggers,3,0.75
+kala azar,3,0.7777777777777778
+knowledge of distant areas,2,0.75
+pooling finanical resources,7,1.0
+safety & defence,2,0.9375
+land grabbing,2,1.0
+land tenure and access,2,1.0
+language skills,0,1.0
+legislator interest in pastoral issues,2,1.0
+pastoralists inclusion in policy and legislation,2,0.9722222222222222
+livestock and people sharing water,2,0.8125
+milk production,6,0.7777777777777778
+livestock exhaustion,2,0.75
+livestock input service providers,1,0.8888888888888888
+livestock kept close to settlements,1,0.7999999999999999
+livestock mineral supplements,4,0.8125
+mixing of herds,1,0.7777777777777778
+phone network,3,0.9375
+livestock restocking,2,0.75
+sale of livestock products,6,0.84375
+use of vehicles to move,2,0.75
+livestock value addition,0,1.0
+making and selling traditional palm mats,0,1.0
+milk wastage,0,1.0
+milk contamination,0,0.8888888888888888
+milk price,0,1.0
+traditional knowledge of pastoral skills,0,0.9444444444444444
+multiple sexual partners,3,1.0
+training on rangeland management,2,0.75
+non-community members using water sources,4,1.0
+soil erosion,6,0.8333333333333333
+progressive legislation for pastoral issues,2,0.859375
+payment for water,7,0.75
+people and livestock sharing water,4,0.8888888888888888
+salty water consumption,4,0.9387755102040817
+sending money by mpesa,3,0.75
+plant competition,3,1.0
+political marginalisation of pastoralists,5,0.8163265306122449
+poor leadership,2,0.84
+subsidies & free handouts,2,1.0
+poorly planned water infrastructure,0,1.0
+pox,1,1.0
+preference for cash crops,1,0.75
+preference for pastoral lifestyle,0,0.984375
+persistence of pastoral lifestyle,0,1.0
+switch to intensive livestock keeping,0,1.0
+urbanisation,0,0.9753086419753086
+private sector incentives,2,0.75
+private sector investment,0,1.0
+privatisation,4,1.0
+water salinity,4,0.8828125
+proximity to natural springs,4,0.75
+quality of available medicines & acaracides,1,1.0
+rape,2,0.75
+stagnant water,4,0.9591836734693877
+surface runoff,4,0.8888888888888888
+surface water use,4,0.9722222222222222
+wildlife sharing water sources,4,0.8888888888888888
+livestock poisoning,1,1.0
+red meat consumption,3,1.0
+walking to deliver livestock market,1,0.8888888888888888
+school meals,0,0.75
+youth departure from drylands,0,1.0
+houshold possessions,0,1.0
+selfishness/individualism,4,0.875
+short term funding cycles,9,1.0
+short-termism or NGOs,9,1.0
+short-termism of NGOs,5,1.0
+snakebite,1,0.8888888888888888
+cysticercosis,4,1.0
+liver flukes,4,1.0
+tobacco use,3,1.0
+toxic chemical dumping,4,0.75
+traditional management structures,4,1.0
+tree planting,7,0.7777777777777778
+trust in moral economy,3,0.75
+trust in social networks,3,0.8888888888888888
+trypanosomiasis,1,1.0
+ulcers,3,1.0
+livestock diease,1,1.0
+washing body and clothes,7,0.8611111111111112
+washing clothers and body in communal water,4,1.0
+washing food,4,1.0
+water-borne disease,4,0.8888888888888888
+wildlife presence,2,1.0

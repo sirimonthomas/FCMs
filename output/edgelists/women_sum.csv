@@ -1,0 +1,754 @@
+"from","to","weight_mean","weight_sum","sd_weight","frequency","polarity","weight"
+"Community Disease Reporters (CDRs)","innapropriate use of veterinary medicines",-3,-3,NA,1,"negative",3
+"Community Disease Reporters (CDRs)","veterinary services",2,2,NA,1,"positive",2
+"HIV","stigma",2,2,NA,1,"positive",2
+"NGO support","Plumpy nut",3,3,NA,1,"positive",3
+"NGO support","access to healthcare",3,3,NA,1,"positive",3
+"NGO support","attention to cultural preference",-2,-2,NA,1,"negative",2
+"NGO support","availability of medicines",2,2,NA,1,"positive",2
+"NGO support","business training",2,2,NA,1,"positive",2
+"NGO support","cash transfers",2.66666666666667,8,0.577350269189626,3,"positive",8
+"NGO support","chemical water treatment",3,3,NA,1,"positive",3
+"NGO support","community forest associations",2,2,NA,1,"positive",2
+"NGO support","community health workers",1,1,NA,1,"positive",1
+"NGO support","distance to school",-2,-2,NA,1,"negative",2
+"NGO support","food aid",2,10,0.707106781186548,5,"positive",10
+"NGO support","food availability",3,3,NA,1,"positive",3
+"NGO support","formal governance structures",2,4,0,2,"positive",4
+"NGO support","functionality of developed water infrastructure",3,3,NA,1,"positive",3
+"NGO support","gender equality",2,2,NA,1,"positive",2
+"NGO support","government financial capacity",2,2,NA,1,"positive",2
+"NGO support","groundwater use",1,1,NA,1,"positive",1
+"NGO support","health education",2.33333333333333,7,0.577350269189626,3,"positive",7
+"NGO support","income",1,1,NA,1,"positive",1
+"NGO support","involvement in women's group",2.33333333333333,7,1.15470053837925,3,"positive",7
+"NGO support","kitchen gardens",1.5,3,0.707106781186548,2,"positive",3
+"NGO support","livestock death",-2,-2,NA,1,"negative",2
+"NGO support","livestock supplementary feed",1,1,NA,1,"positive",1
+"NGO support","maternal health",2,2,NA,1,"positive",2
+"NGO support","medical outreach programs",2,4,0,2,"positive",4
+"NGO support","natural resource management",2,2,NA,1,"positive",2
+"NGO support","protected water infrastructure",2,4,0,2,"positive",4
+"NGO support","running businesses",2,2,NA,1,"positive",2
+"NGO support","toilet facilities",2,2,NA,1,"positive",2
+"NGO support","water storage infrastructure",2.5,5,0.707106781186548,2,"positive",5
+"NGO support","water trucking",2,2,NA,1,"positive",2
+"Plumpy nut","malnutrition",-2,-2,NA,1,"negative",2
+"ability to advocate for community","NGO support",2,2,NA,1,"positive",2
+"ability to advocate for community","formal employment",2,2,NA,1,"positive",2
+"ability to give gifts & share resources","resource sharing",2,2,NA,1,"positive",2
+"acaracide use","livestock disease",-2,-2,NA,1,"negative",2
+"access to healthcare","human health",2.75,11,0.5,4,"positive",11
+"access to information","alternative energy use",2,2,NA,1,"positive",2
+"access to information","income diversification",2,2,NA,1,"positive",2
+"access to natural resources","grazing",2,2,NA,1,"positive",2
+"access to natural resources","insecurity & conflict",2,2,NA,1,"positive",2
+"aid dependency","food security",-2,-2,NA,1,"negative",2
+"alternative energy use","harvesting firewood for sale",-2,-2,NA,1,"negative",2
+"anaemia","maternal health",-3,-3,NA,1,"negative",3
+"association with church","formal employment",1,1,NA,1,"positive",1
+"attention to cultural preference","proportion of cereals in diet",-2,-2,NA,1,"negative",2
+"availability of chemical water treatments","chemical water treatment",2,2,NA,1,"positive",2
+"availability of fruit and vegetables","food availability",2,2,NA,1,"positive",2
+"availability of fruit and vegetables","malnutrition",-3,-3,NA,1,"negative",3
+"availability of loans","financial security",2.75,11,0.5,4,"positive",11
+"availability of loans","food purchase",2,2,NA,1,"positive",2
+"availability of loans","food security",1,1,NA,1,"positive",1
+"availability of loans","income diversification",2,2,NA,1,"positive",2
+"availability of loans","purchase of female livestock",2,2,NA,1,"positive",2
+"availability of loans","school fees",2,2,NA,1,"positive",2
+"availability of loans","schooling",-0.25,-0.5,3.88908729652601,2,"negative",0.5
+"availability of medicines","human health",2,6,0,3,"positive",6
+"availability of medicines","sickness in children <5",-3,-3,NA,1,"negative",3
+"availability of technicians","functionality of developed water infrastructure",3,3,NA,1,"positive",3
+"burden of caring for family","financial security",-1,-1,NA,1,"negative",1
+"business training","formal employment",2,2,NA,1,"positive",2
+"business training","income diversification",2,2,NA,1,"positive",2
+"cancer","hospital visits",1,1,NA,1,"positive",1
+"cancer","human death",2.5,5,0.707106781186548,2,"positive",5
+"cancer","human health",-2,-8,0,4,"negative",8
+"cancer","sickness of women",2,2,NA,1,"positive",2
+"carbon credit schemes","access to natural resources",-2,-2,NA,1,"negative",2
+"carbon credit schemes","formal governance structures",2,2,NA,1,"positive",2
+"carbon credit schemes","schooling",1,1,NA,1,"positive",1
+"cash transfers","income",2.33333333333333,7,0.577350269189626,3,"positive",7
+"chemical water treatment","poor water taste",2.75,11,0.5,4,"positive",11
+"chemical water treatment","water quality",2.57142857142857,18,0.534522483824849,7,"positive",18
+"childcare","life opportunities",3,3,NA,1,"positive",3
+"childcare","malnutrition",-3,-3,NA,1,"negative",3
+"childcare","schooling",3,3,NA,1,"positive",3
+"children remain at home to herd livestock","early marriage",2,2,NA,1,"positive",2
+"clean air","cough",2,2,NA,1,"positive",2
+"climate change","cancer",1,1,NA,1,"positive",1
+"climate change","carbon credit schemes",2,2,NA,1,"positive",2
+"climate change","rainfall",-2.5,-5,0.707106781186548,2,"negative",5
+"climate change","rainfall predictability",-2,-2,NA,1,"negative",2
+"cold, damp environment","pneumonia",2,4,0,2,"positive",4
+"cold, damp environment","respiratory infections",3,3,NA,1,"positive",3
+"commercialisation of livestock production","improved breeds",2,2,NA,1,"positive",2
+"commercialisation of livestock production","income",2,2,NA,1,"positive",2
+"commercialisation of livestock production","livestock sale",2,2,NA,1,"positive",2
+"commercialisation of livestock production","overstocking",-2,-2,NA,1,"negative",2
+"commodification","formalized moral economy practices",2,2,NA,1,"positive",2
+"community forest associations","deforestation",-2,-2,NA,1,"negative",2
+"community health workers","health education",2.5,5,0.707106781186548,2,"positive",5
+"community health workers","health seeking behaviour",2,2,NA,1,"positive",2
+"community health workers","treatment follow up",2,2,NA,1,"positive",2
+"contaminated water consumption","diarrhoea",2.5,5,0.707106781186548,2,"positive",5
+"contaminated water consumption","vomiting",2,2,NA,1,"positive",2
+"cooking","food availability",3,3,NA,1,"positive",3
+"coordination between NGOs","efficacy of interventions",2,2,NA,1,"positive",2
+"corruption & bribery","financial security",-2,-2,NA,1,"negative",2
+"county government","food aid",1,1,NA,1,"positive",1
+"county government","healthcare facilities",2,2,NA,1,"positive",2
+"county government","schooling",2,2,NA,1,"positive",2
+"crop harvest","food availability",2.5,5,0.707106781186548,2,"positive",5
+"crop harvest","food security",2,2,NA,1,"positive",2
+"crop pests","crop harvest",-2,-2,NA,1,"negative",2
+"crop pests","pesticide use",2,2,NA,1,"positive",2
+"cultural preferences","egg consumption",-2,-2,NA,1,"negative",2
+"cultural preferences","health seeking behaviour",-2,-4,0,2,"negative",4
+"cultural preferences","income diversification",-2,-2,NA,1,"negative",2
+"cultural preferences","traditional medicine",2,2,NA,1,"positive",2
+"defence of resources","sedentarisation",2,2,NA,1,"positive",2
+"deforestation","climate change",2,2,NA,1,"positive",2
+"deforestation","habitat degradation",2,2,NA,1,"positive",2
+"deforestation","vegetation cover",-2,-2,NA,1,"negative",2
+"dehydration","human death",2,2,NA,1,"positive",2
+"delivery of food supplies","availability of fruit and vegetables",3,3,NA,1,"positive",3
+"delivery of food supplies","food security",2,2,NA,1,"positive",2
+"demand for fruit and vegetables","delivery of food supplies",3,3,NA,1,"positive",3
+"demand for herding labour","schooling",-2,-2,NA,1,"negative",2
+"diarrhoea","dehydration",2,2,NA,1,"positive",2
+"diarrhoea","human health",-2.22222222222222,-20,0.440958551844098,9,"negative",20
+"diarrhoea","human productivity",-3,-3,NA,1,"negative",3
+"diarrhoea","human resources for herding livestock",-3,-3,NA,1,"negative",3
+"diarrhoea","missed school",3,3,NA,1,"positive",3
+"diarrhoea","schooling",-1,-1,NA,1,"negative",1
+"diarrhoea","sickness in children <5",2,2,NA,1,"positive",2
+"dietary diversity","food security",2,2,NA,1,"positive",2
+"dietary diversity","malnutrition",-3,-3,NA,1,"negative",3
+"dietary diversity","nutritious diet",2,2,NA,1,"positive",2
+"digging shallow wells","water availability",2,2,NA,1,"positive",2
+"dirty water storage containers","water quality",-2,-4,0,2,"negative",4
+"distance to school","schooling",-2,-2,NA,1,"negative",2
+"distance to water","contaminated water consumption",2,4,1.4142135623731,2,"positive",4
+"distance to water","female work load",3,3,NA,1,"positive",3
+"distance to water","livestock body condition",-2,-2,NA,1,"negative",2
+"distance to water","use of shallow wells",1,1,NA,1,"positive",1
+"distance to water","water trucking",2,2,NA,1,"positive",2
+"drinking very hot tea","cancer",2,2,NA,1,"positive",2
+"drinking water availability","availability of fruit and vegetables",1,1,NA,1,"positive",1
+"drinking water availability","diarrhoea",-2,-2,NA,1,"negative",2
+"drought","cash transfers",2,2,NA,1,"positive",2
+"drought","crop harvest",-3,-3,NA,1,"negative",3
+"drought","diarrhoea",3,3,NA,1,"positive",3
+"drought","distance to water",2,2,NA,1,"positive",2
+"drought","dust",3,6,0,2,"positive",6
+"drought","food aid",2,2,NA,1,"positive",2
+"drought","food purchase",2,2,NA,1,"positive",2
+"drought","grazing",-3,-18,0,6,"negative",18
+"drought","harvesting tree gum for sale",1,1,NA,1,"positive",1
+"drought","harvesting tubers",1,1,NA,1,"positive",1
+"drought","livestock death",3,6,0,2,"positive",6
+"drought","livestock moved to distant pasture",2.5,5,0.707106781186548,2,"positive",5
+"drought","livestock population",-2.8,-14,0.447213595499958,5,"negative",14
+"drought","livestock supplementary feed",1.5,3,0.707106781186548,2,"positive",3
+"drought","livestock to carry household possessions",-3,-3,NA,1,"negative",3
+"drought","malaria",1,1,NA,1,"positive",1
+"drought","malnutrition",3,3,NA,1,"positive",3
+"drought","mental health",-3,-3,NA,1,"negative",3
+"drought","new settlers",2,2,NA,1,"positive",2
+"drought","switching to alternative water sources",3,3,NA,1,"positive",3
+"drought","water availability",-3,-12,0,4,"negative",12
+"drought","water purchase",1,1,NA,1,"positive",1
+"drought","water trucking",2.5,5,0.707106781186548,2,"positive",5
+"dust","respiratory infections",2,2,NA,1,"positive",2
+"dust","water quality",-3,-3,NA,1,"negative",3
+"early marriage","early pregnancy",2,2,NA,1,"positive",2
+"early pregnancy","burden of caring for family",2,2,NA,1,"positive",2
+"egg consumption","dietary diversity",2,2,NA,1,"positive",2
+"environmental faecal contamination","diarrhoea",2,2,NA,1,"positive",2
+"environmental faecal contamination","human health",-2,-2,NA,1,"negative",2
+"environmental faecal contamination","livestock disease",2,2,NA,1,"positive",2
+"environmental faecal contamination","vomiting",2,2,NA,1,"positive",2
+"environmental faecal contamination","water contamination",2,2,NA,1,"positive",2
+"exclusion of pastoralists from resources","access to natural resources",-3,-3,NA,1,"negative",3
+"exclusion of pastoralists from resources","corruption & bribery",2,2,NA,1,"positive",2
+"exhaustion","human death",1,1,NA,1,"positive",1
+"expenditure on transport","financial security",-2,-2,NA,1,"negative",2
+"expenses","financial security",-3,-3,NA,1,"negative",3
+"families with no livestock","ability to give gifts & share resources",-2,-2,NA,1,"negative",2
+"families with no livestock","resource sharing",3,3,NA,1,"positive",3
+"family members in employment","remittances",2,2,NA,1,"positive",2
+"fear of medical procedures","health seeking behaviour",-2,-2,NA,1,"negative",2
+"female education","formal employment",3,3,NA,1,"positive",3
+"female headed household","burden of caring for family",2,2,NA,1,"positive",2
+"female headed household","income",-3,-3,NA,1,"negative",3
+"female work load","dirty water storage containers",1,1,NA,1,"positive",1
+"financial contribution to women's group","involvement in women's group",3,3,NA,1,"positive",3
+"financial security","availability of fruit and vegetables",2,2,NA,1,"positive",2
+"financial security","availability of medicines",2,2,NA,1,"positive",2
+"financial security","availability of technicians",2,2,NA,1,"positive",2
+"financial security","demand for fruit and vegetables",3,3,NA,1,"positive",3
+"financial security","dependence on livestock",-2,-2,NA,1,"negative",2
+"financial security","exclusion of pastoralists from resources",-2,-2,NA,1,"negative",2
+"financial security","food purchase",2,4,0,2,"positive",4
+"financial security","harvesting firewood for sale",-2,-2,NA,1,"negative",2
+"financial security","informal moral economy practices",2,2,NA,1,"positive",2
+"financial security","involvement in women's group",3,3,NA,1,"positive",3
+"financial security","livestock purchase",3,3,NA,1,"positive",3
+"financial security","pooling financial resources",1,1,NA,1,"positive",1
+"financial security","protection of water against theft",2,2,NA,1,"positive",2
+"financial security","purchasing on credit",-2,-2,NA,1,"negative",2
+"financial security","running businesses",3,3,NA,1,"positive",3
+"financial security","school fees",2,2,NA,1,"positive",2
+"financial security","schooling",2.5,7.5,0.5,3,"positive",7.5
+"financial security","toilet facilities",3,3,NA,1,"positive",3
+"financial security","tool & seed purchase",2,2,NA,1,"positive",2
+"financial security","transport",2.5,5,0.707106781186548,2,"positive",5
+"financial security","water purchase",1,1,NA,1,"positive",1
+"food aid","aid dependency",1,1,NA,1,"positive",1
+"food aid","food availability",1,2,0,2,"positive",2
+"food aid","food security",1,1,NA,1,"positive",1
+"food aid","proportion of cereals in diet",2,2,NA,1,"positive",2
+"food availability","anaemia",-3,-3,NA,1,"negative",3
+"food availability","growing cash and food crops",-2,-2,NA,1,"negative",2
+"food availability","human health",1,1,NA,1,"positive",1
+"food availability","malnutrition",-3,-12,0,4,"negative",12
+"food purchase","dietary diversity",3,3,NA,1,"positive",3
+"food purchase","financial security",-2,-2,NA,1,"negative",2
+"food purchase","food availability",2.25,9,0.5,4,"positive",9
+"food purchase","food security",2,2,NA,1,"positive",2
+"food purchase","household expenses",2,2,NA,1,"positive",2
+"food purchase","livestock sale",1,1,NA,1,"positive",1
+"food purchase","protein in diet",-2,-2,NA,1,"negative",2
+"food security","malnutrition",-2.66666666666667,-8,0.577350269189626,3,"negative",8
+"foor purchase","food availability",3,3,NA,1,"positive",3
+"formal employment","NGO support",1,1,NA,1,"positive",1
+"formal employment","financial security",3,6,0,2,"positive",6
+"formal employment","food purchase",2,2,NA,1,"positive",2
+"formal employment","human resources for herding livestock",-3,-3,NA,1,"negative",3
+"formal employment","idleness",-2,-2,NA,1,"negative",2
+"formal employment","income",2,6,0,3,"positive",6
+"formal employment","private investment in community",3,3,NA,1,"positive",3
+"formal employment","remittances",2,6,0,3,"positive",6
+"formal employment","resource sharing",2,2,NA,1,"positive",2
+"formal employment","women's financial independence",2,2,NA,1,"positive",2
+"formal governance structures","availability of loans",2,2,NA,1,"positive",2
+"formal governance structures","community forest associations",2,2,NA,1,"positive",2
+"formal governance structures","informal governance",-2,-2,NA,1,"negative",2
+"formal governance structures","involvement in women's group",2,2,NA,1,"positive",2
+"formal governance structures","social capital",-2,-2,NA,1,"negative",2
+"formalized moral economy practices","access to healthcare",2,2,NA,1,"positive",2
+"formalized moral economy practices","access to natural resources",3,3,NA,1,"positive",3
+"formalized moral economy practices","availability of loans",3,3,NA,1,"positive",3
+"formalized moral economy practices","labour",2,2,NA,1,"positive",2
+"fragmentation of rangelands","mobility",-3,-3,NA,1,"negative",3
+"functionality of developed water infrastructure","water availability",2.5,5,0.707106781186548,2,"positive",5
+"gender equality","efficacy of interventions",3,3,NA,1,"positive",3
+"gender equality","female work load",-1.5,-3,0.707106781186548,2,"negative",3
+"gender equality","income",-2,-2,NA,1,"negative",2
+"gender equality","nutritious diet",3,3,NA,1,"positive",3
+"god","drought",3,6,0,2,"positive",6
+"god","livestock population",-3,-3,NA,1,"negative",3
+"government","Community Disease Reporters (CDRs)",2,2,NA,1,"positive",2
+"government","availability of chemical water treatments",3,3,NA,1,"positive",3
+"government","availability of medicines",2.5,5,0.707106781186548,2,"positive",5
+"government","chemical water treatment",2,4,0,2,"positive",4
+"government","community health workers",1.5,3,0.707106781186548,2,"positive",3
+"government","coordination between NGOs",2,2,NA,1,"positive",2
+"government","food aid",1,2,0,2,"positive",2
+"government","formal governance structures",2,2,NA,1,"positive",2
+"government","government financial capacity",1,1,NA,1,"positive",1
+"government","groundwater use",1,1,NA,1,"positive",1
+"government","healthcare facilities",3,3,NA,1,"positive",3
+"government","livestock vaccination",2,2,NA,1,"positive",2
+"government","natural resource management",2,2,NA,1,"positive",2
+"government","water storage infrastructure",1,1,NA,1,"positive",1
+"government investment in pastoral areas","green investment",2,2,NA,1,"positive",2
+"government investment in pastoral areas","large infrastructure development projects",2,2,NA,1,"positive",2
+"government investment in pastoral areas","military presence",1,1,NA,1,"positive",1
+"government planning for pastoral areas","healthcare facilities",3,3,NA,1,"positive",3
+"government planning for pastoral areas","market access",2,2,NA,1,"positive",2
+"grazing","NGO support",-3,-3,NA,1,"negative",3
+"grazing","grazing in National Parks",-2,-2,NA,1,"negative",2
+"grazing","herd splitting",-2,-2,NA,1,"negative",2
+"grazing","insecurity & conflict",-3,-3,NA,1,"negative",3
+"grazing","inter-community communication",-2,-2,NA,1,"negative",2
+"grazing","livestock body condition",3,12,0,4,"positive",12
+"grazing","livestock death",-2.66666666666667,-8,0.577350269189626,3,"negative",8
+"grazing","livestock health",3,3,NA,1,"positive",3
+"grazing","livestock moved to distant pasture",-2,-2,NA,1,"negative",2
+"grazing","livestock movement",-3,-3,NA,1,"negative",3
+"grazing","livestock population",2.66666666666667,8,0.577350269189626,3,"positive",8
+"grazing","milk availability",2,4,0,2,"positive",4
+"grazing","mobility",-2.5,-5,0.707106781186548,2,"negative",5
+"grazing","overgrazing",-2,-2,NA,1,"negative",2
+"grazing","remoteness of settlement",-3,-3,NA,1,"negative",3
+"grazing","resource competition",-2,-2,NA,1,"negative",2
+"grazing nutritional quality","livestock disease",-3,-3,NA,1,"negative",3
+"grazing nutritional quality","livestock movement",-2,-2,NA,1,"negative",2
+"grazing nutritional quality","milk availability",2,2,NA,1,"positive",2
+"green investment","large infrastructure development projects",1,1,NA,1,"positive",1
+"green investment","wildlife conservation",2,2,NA,1,"positive",2
+"growing cash and food crops","crop harvest",2.66666666666667,8,0.577350269189626,3,"positive",8
+"growing cash and food crops","food availability",3,3,NA,1,"positive",3
+"habitat degradation","human wildlife conflict",3,3,NA,1,"positive",3
+"hand washing","diarrhoea",-2,-2,NA,1,"negative",2
+"harsh environmental conditions","functionality of developed water infrastructure",-1,-1,NA,1,"negative",1
+"harvesting firewood for sale","deforestation",3,3,NA,1,"positive",3
+"harvesting firewood for sale","income",1.66666666666667,5,0.577350269189626,3,"positive",5
+"harvesting tree gum for sale","income",2,2,NA,1,"positive",2
+"health education","chemical water treatment",2.33333333333333,7,0.577350269189626,3,"positive",7
+"health education","dirty water storage containers",-1,-1,NA,1,"negative",1
+"health education","knowledge of HIV",3,3,NA,1,"positive",3
+"health education","malnutrition",-2.5,-2.5,NA,1,"negative",2.5
+"health education","nutritious diet",2,2,NA,1,"positive",2
+"health education","toilet facilities",2,2,NA,1,"positive",2
+"health education","use of ash as floculant and water treatment",2,2,NA,1,"positive",2
+"health education","water treatment",3,3,NA,1,"positive",3
+"health seeking behaviour","HIV",-2,-2,NA,1,"negative",2
+"health seeking behaviour","human health",1,1,NA,1,"positive",1
+"health seeking behaviour","traditional medicine",2,2,NA,1,"positive",2
+"healthcare facilities","access to healthcare",2.66666666666667,8,0.577350269189626,3,"positive",8
+"healthcare facilities","availability of medicines",2,6,1,3,"positive",6
+"healthcare facilities","chemical water treatment",1.5,3,0.707106781186548,2,"positive",3
+"healthcare facilities","health education",2.5,5,0.707106781186548,2,"positive",5
+"healthcare facilities","malnutrition",-2,-2,NA,1,"negative",2
+"healthcare facilities","water treatment",3,3,NA,1,"positive",3
+"herd size","financial security",3,3,NA,1,"positive",3
+"herd size","livestock sale",2,2,NA,1,"positive",2
+"hospital visits","financial security",-1,-1,NA,1,"negative",1
+"hospital visits","food security",2,2,NA,1,"positive",2
+"hospital visits","household expenses",3,3,NA,1,"positive",3
+"hospital visits","human death",-2,-2,NA,1,"negative",2
+"household expenses","dependence on social capital",2,2,NA,1,"positive",2
+"household expenses","financial security",-3,-3,NA,1,"negative",3
+"household expenses","food availability",-3,-3,NA,1,"negative",3
+"household expenses","purchasing on credit",2,2,NA,1,"positive",2
+"human health","burden of caring for family",2,2,NA,1,"positive",2
+"human health","financial security",2,2,NA,1,"positive",2
+"human health","hospital visits",-2.5,-5,0.707106781186548,2,"negative",5
+"human health","human death",-2,-4,0,2,"negative",4
+"human health","human resources for herding livestock",-2,-2,NA,1,"negative",2
+"human health","medical costs",-3,-3,NA,1,"negative",3
+"human immunity","diarrhoea",-2,-2,NA,1,"negative",2
+"human immunity","human health",2,4,0,2,"positive",4
+"human population","deforestation",2,2,NA,1,"positive",2
+"human population","habitat degradation",2,2,NA,1,"positive",2
+"human population","harvesting firewood for sale",2,2,NA,1,"positive",2
+"human population","livestock population",2,2,NA,1,"positive",2
+"human resources for herding livestock","combining livestock herds",-2,-2,NA,1,"negative",2
+"human resources for herding livestock","female work load",-2,-2,NA,1,"negative",2
+"human resources for herding livestock","household expenses",2,2,NA,1,"positive",2
+"human wildlife conflict","human death",2,2,NA,1,"positive",2
+"hygiene & sanitation","diarrhoea",-2,-2,NA,1,"negative",2
+"hygiene & sanitation","skin conditions",-3,-3,NA,1,"negative",3
+"idleness","female work load",2,2,NA,1,"positive",2
+"improved breeds","livestock disease",2,2,NA,1,"positive",2
+"income","ability to give gifts & share resources",2,2,NA,1,"positive",2
+"income","financial security",2.25,18,2.12132034355964,8,"positive",18
+"income","food purchase",2.28571428571429,16,0.487950036474267,7,"positive",16
+"income","food security",3,3,NA,1,"positive",3
+"income","gender equality",-2,-2,NA,1,"negative",2
+"income","income diversification",2,2,NA,1,"positive",2
+"income","involvement in women's group",1,1,NA,1,"positive",1
+"income","livestock purchase",2,2,NA,1,"positive",2
+"income","livestock supplementary feed",2,2,NA,1,"positive",2
+"income","protein in diet",2,2,NA,1,"positive",2
+"income","purchasing on credit",-2,-2,NA,1,"negative",2
+"income","schooling",2.33333333333333,7,0.577350269189626,3,"positive",7
+"income","toilet facilities",2,4,1.4142135623731,2,"positive",4
+"income","veterinary services",2,4,0,2,"positive",4
+"income diversification","deforestation",-2,-2,NA,1,"negative",2
+"income diversification","women's financial independence",2,2,NA,1,"positive",2
+"indigenous knowledge & skills","food security",2,2,NA,1,"positive",2
+"indigenous knowledge & skills","human health",2,2,NA,1,"positive",2
+"informal governance","unprotected water sources",3,3,NA,1,"positive",3
+"informal moral economy practices","access to natural resources",3,3,NA,1,"positive",3
+"informal moral economy practices","crop harvest",-1,-1,NA,1,"negative",1
+"informal moral economy practices","financial security",3,3,NA,1,"positive",3
+"informal moral economy practices","labour",3,3,NA,1,"positive",3
+"informal moral economy practices","pooling financial resources",3,3,NA,1,"positive",3
+"informal moral economy practices","pooling labour",3,3,NA,1,"positive",3
+"informal moral economy practices","resource sharing",2.5,5,0.707106781186548,2,"positive",5
+"innapropriate use of veterinary medicines","livestock death",1,1,NA,1,"positive",1
+"insecurity & conflict","access to natural resources",-2,-2,NA,1,"negative",2
+"insecurity & conflict","defence of resources",3,3,NA,1,"positive",3
+"insecurity & conflict","grazing",-2,-4,1.4142135623731,2,"negative",4
+"insecurity & conflict","human death",1,1,NA,1,"positive",1
+"insecurity & conflict","inter-community communication",-2,-2,NA,1,"negative",2
+"insecurity & conflict","livestock moved to distant pasture",-2,-2,NA,1,"negative",2
+"insecurity & conflict","mental health",-3,-3,NA,1,"negative",3
+"insecurity & conflict","military presence",2,2,NA,1,"positive",2
+"insecurity & conflict","transport",-2,-2,NA,1,"negative",2
+"insecurity & conflict","water trucking",-2,-2,NA,1,"negative",2
+"inter-community communication","access to natural resources",2,2,NA,1,"positive",2
+"invasive species","grazing nutritional quality",-3,-3,NA,1,"negative",3
+"involvement in women's group","NGO support",3,3,NA,1,"positive",3
+"involvement in women's group","association with church",2,2,NA,1,"positive",2
+"involvement in women's group","availability of loans",2.75,11,0.5,4,"positive",11
+"involvement in women's group","business training",2,2,NA,1,"positive",2
+"involvement in women's group","financial security",2,2,NA,1,"positive",2
+"involvement in women's group","gender equality",1,1,NA,1,"positive",1
+"involvement in women's group","health education",3,3,NA,1,"positive",3
+"involvement in women's group","kitchen gardens",2,2,NA,1,"positive",2
+"involvement in women's group","maternal and neonatal support",2,2,NA,1,"positive",2
+"involvement in women's group","social capital",2,2,NA,1,"positive",2
+"involvement in women's group","water availability",2,2,NA,1,"positive",2
+"involvement in women's group","well digging",2,2,NA,1,"positive",2
+"jiggers","human health",-2,-2,NA,1,"negative",2
+"kitchen gardens","availability of fruit and vegetables",1,1,NA,1,"positive",1
+"kitchen gardens","food availability",2,4,0,2,"positive",4
+"kitchen gardens","income",2,2,NA,1,"positive",2
+"kitchen gardens","malnutrition",-2,-2,NA,1,"negative",2
+"knowledge of HIV","human health",2,2,NA,1,"positive",2
+"labour","pooling finanical resources",2,2,NA,1,"positive",2
+"labour","pooling labour",2,2,NA,1,"positive",2
+"labour","safety & defence",3,3,NA,1,"positive",3
+"land grabbing","exclusion of pastoralists from resources",2,2,NA,1,"positive",2
+"language skills","ability to advocate for community",2.5,2.5,NA,1,"positive",2.5
+"large infrastructure development projects","land grabbing",2,2,NA,1,"positive",2
+"life opportunities","children remain at home to herd livestock",-2,-2,NA,1,"negative",2
+"livestock and people sharing water","livestock disease",3,3,NA,1,"positive",3
+"livestock body condition","livestock death",-3,-3,NA,1,"negative",3
+"livestock body condition","livestock disease",-2,-2,NA,1,"negative",2
+"livestock body condition","livestock price",3,9,0,3,"positive",9
+"livestock body condition","meat availability",2,2,NA,1,"positive",2
+"livestock body condition","milk availability",2.66666666666667,8,0.577350269189626,3,"positive",8
+"livestock death","food availability",-3,-3,NA,1,"negative",3
+"livestock death","herd size",-3,-3,NA,1,"negative",3
+"livestock death","livestock population",-2.66666666666667,-8,0.577350269189626,3,"negative",8
+"livestock death","livestock sale",-2,-2,NA,1,"negative",2
+"livestock death","livestock to carry household possessions",-3,-3,NA,1,"negative",3
+"livestock death","meat availability",-3,-3,NA,1,"negative",3
+"livestock death","milk availability",-3,-6,0,2,"negative",6
+"livestock disease","livestock body condition",-2.5,-5,0.707106781186548,2,"negative",5
+"livestock disease","livestock death",2,4,1.4142135623731,2,"positive",4
+"livestock disease","livestock population",-2,-6,0,3,"negative",6
+"livestock health","food security",2,2,NA,1,"positive",2
+"livestock kept close to settlements","meat availability",2,2,NA,1,"positive",2
+"livestock kept close to settlements","milk availability",3,3,NA,1,"positive",3
+"livestock kept close to settlements","water contamination",2,2,NA,1,"positive",2
+"livestock moved to distant pasture","access to natural resources",-2,-2,NA,1,"negative",2
+"livestock moved to distant pasture","demand for herding labour",2,2,NA,1,"positive",2
+"livestock moved to distant pasture","insecurity & conflict",3,3,NA,1,"positive",3
+"livestock moved to distant pasture","livestock and people sharing water",3,3,NA,1,"positive",3
+"livestock moved to distant pasture","meat availability",-2,-2,NA,1,"negative",2
+"livestock moved to distant pasture","milk availability",-2,-4,0,2,"negative",4
+"livestock moved to distant pasture","mixing of herds",3,3,NA,1,"positive",3
+"livestock moved to distant pasture","veterinary services",-3,-3,NA,1,"negative",3
+"livestock population","ability to give gifts & share resources",2,2,NA,1,"positive",2
+"livestock population","combining livestock herds",-2,-2,NA,1,"negative",2
+"livestock population","families with no livestock",-3,-3,NA,1,"negative",3
+"livestock population","financial security",3,3,NA,1,"positive",3
+"livestock population","harvesting tree gum for sale",-3,-3,NA,1,"negative",3
+"livestock population","income",2.5,5,0.707106781186548,2,"positive",5
+"livestock population","livestock sale",2.5,5,0.707106781186548,2,"positive",5
+"livestock population","meat availability",2,2,NA,1,"positive",2
+"livestock population","milk availability",2.75,11,0.5,4,"positive",11
+"livestock population","purchase of female livestock",-2,-2,NA,1,"negative",2
+"livestock population","purchasing on credit",2,2,NA,1,"positive",2
+"livestock population","water contamination",3,3,NA,1,"positive",3
+"livestock price","income",2.66666666666667,8,0.577350269189626,3,"positive",8
+"livestock price","livestock sale",2,2,NA,1,"positive",2
+"livestock purchase","herd size",2,2,NA,1,"positive",2
+"livestock sale","income",2.57142857142857,18,0.534522483824849,7,"positive",18
+"livestock sale","livestock population",-2,-2,NA,1,"negative",2
+"livestock sale","meat availability",-2,-2,NA,1,"negative",2
+"livestock supplementary feed","household expenses",1,1,NA,1,"positive",1
+"livestock supplementary feed","livestock body condition",1,1,NA,1,"positive",1
+"livestock to carry household possessions","sedentarisation",-2.5,-5,0.707106781186548,2,"negative",5
+"livestock vaccination","livestock disease",-2,-2,NA,1,"negative",2
+"maintenance of infrastructure","functionality of developed water infrastructure",3,3,NA,1,"positive",3
+"making and selling traditional palm mats","income",2,2,NA,1,"positive",2
+"malaria","human death",1,1,NA,1,"positive",1
+"malaria","human health",-2,-10,0.707106781186548,5,"negative",10
+"malaria","human productivity",-3,-3,NA,1,"negative",3
+"malaria","missed school",3,3,NA,1,"positive",3
+"male ownership of livestock","gender equality",-2,-2,NA,1,"negative",2
+"male ownership of livestock","women's financial independence",-2,-2,NA,1,"negative",2
+"malnutrition","diarrhoea",2,2,NA,1,"positive",2
+"malnutrition","food aid",3,3,NA,1,"positive",3
+"malnutrition","human death",1,1,NA,1,"positive",1
+"malnutrition","human health",-2.33333333333333,-7,0.577350269189626,3,"negative",7
+"malnutrition","human immunity",-2,-2,NA,1,"negative",2
+"malnutrition","maternal health",-2,-4,0,2,"negative",4
+"malnutrition","schooling",-2,-2,NA,1,"negative",2
+"malnutrition","sickness in children <5",2,2,NA,1,"positive",2
+"market access","commodification",3,3,NA,1,"positive",3
+"market access","income",3,3,NA,1,"positive",3
+"market access","livestock sale",3,3,NA,1,"positive",3
+"market access","milk wastage",-1,-1,NA,1,"negative",1
+"maternal health","human death",-2,-2,NA,1,"negative",2
+"maternal health","human health",2,2,NA,1,"positive",2
+"maternal health","sickness in children <5",-1,-1,NA,1,"negative",1
+"meat availability","food security",2.5,5,0.707106781186548,2,"positive",5
+"meat availability","malnutrition",-3,-3,NA,1,"negative",3
+"meat availability","nutritious diet",2,2,NA,1,"positive",2
+"medical costs","financial security",-2,-2,NA,1,"negative",2
+"medical costs","health seeking behaviour",-2,-4,0,2,"negative",4
+"medical costs","household expenses",2.5,5,0.707106781186548,2,"positive",5
+"medical outreach programs","human health",2,4,0,2,"positive",4
+"mental health","human health",-2,-2,NA,1,"negative",2
+"military presence","insecurity & conflict",-1.5,-3,0.707106781186548,2,"negative",3
+"milk availability","dependence on social capital",-3,-3,NA,1,"negative",3
+"milk availability","food availability",3,3,NA,1,"positive",3
+"milk availability","food security",2.5,5,0.707106781186548,2,"positive",5
+"milk availability","human immunity",2,2,NA,1,"positive",2
+"milk availability","malnutrition",-1.5,-9,2.34520787991171,6,"negative",9
+"milk availability","maternal health",-2,-2,NA,1,"negative",2
+"milk availability","nutritious diet",2,2,NA,1,"positive",2
+"milk availability","sale of livestock products",2,2,NA,1,"positive",2
+"milk contamination","milk price",-2,-2,NA,1,"negative",2
+"milk contamination","milk wastage",2,2,NA,1,"positive",2
+"milk price","income",3,3,NA,1,"positive",3
+"mixing of herds","livestock disease",3,3,NA,1,"positive",3
+"mobility","access to natural resources",2,2,NA,1,"positive",2
+"mobility","diarrhoea",1,1,NA,1,"positive",1
+"modernisation","formalized moral economy practices",2,2,NA,1,"positive",2
+"modernisation","income diversification",2,2,NA,1,"positive",2
+"multiple sexual partners","HIV",3,3,NA,1,"positive",3
+"natural resource management","alternative energy use",2,2,NA,1,"positive",2
+"natural resource management","climate change",-2,-2,NA,1,"negative",2
+"natural resource management","deforestation",-2,-2,NA,1,"negative",2
+"natural resource management","environmental faecal contamination",-3,-3,NA,1,"negative",3
+"natural resource management","training on rangeland management",2,2,NA,1,"positive",2
+"natural resource management","water contamination",-3,-3,NA,1,"negative",3
+"new settlers","livestock population",2,2,NA,1,"positive",2
+"non-communicable disease","human health",-2,-2,NA,1,"negative",2
+"non-community members using water sources","water quality",-3,-3,NA,1,"negative",3
+"nutritious diet","food security",-2,-2,NA,1,"negative",2
+"nutritious diet","malnutrition",-3,-6,0,2,"negative",6
+"nutritious diet","maternal health",2,2,NA,1,"positive",2
+"nutritious diet","sickness in children <5",-2,-2,NA,1,"negative",2
+"open defacation","contaminated water consumption",3,3,NA,1,"positive",3
+"open defacation","environmental faecal contamination",2,2,NA,1,"positive",2
+"open defacation","water contamination",3,3,NA,1,"positive",3
+"open defacation","water quality",-3,-6,0,2,"negative",6
+"overgrazing","soil erosion",2,2,NA,1,"positive",2
+"overstocking","overgrazing",2,2,NA,1,"positive",2
+"payment for water","financial security",-2,-2,NA,1,"negative",2
+"people and livestock sharing water","diarrhoea",1,1,NA,1,"positive",1
+"people and livestock sharing water","salty water consumption",1,1,NA,1,"positive",1
+"people and livestock sharing water","water contamination",3,6,0,2,"positive",6
+"pneumonia","sickness in children <5",2,2,NA,1,"positive",2
+"political pressure","formal governance structures",2,2,NA,1,"positive",2
+"political pressure","insecurity & conflict",1,1,NA,1,"positive",1
+"political pressure","sedentarisation",1,1,NA,1,"positive",1
+"pooling finanical resources","water trucking",2,2,NA,1,"positive",2
+"pooling labour","digging shallow wells",2,2,NA,1,"positive",2
+"poor leadership","food aid",-2,-2,NA,1,"negative",2
+"poor leadership","government planning for pastoral areas",-2,-2,NA,1,"negative",2
+"poor water taste","chemical water treatment",-2,-6,1,3,"negative",6
+"poor water taste","use of ash as floculant and water treatment",3,3,NA,1,"positive",3
+"private investment in community","improved housing",2,2,NA,1,"positive",2
+"private investment in community","protected water infrastructure",2,2,NA,1,"positive",2
+"private investment in community","schooling",2,2,NA,1,"positive",2
+"proportion of cereals in diet","nutritious diet",-3,-3,NA,1,"negative",3
+"protected water infrastructure","kitchen gardens",2,2,NA,1,"positive",2
+"protected water infrastructure","people and livestock sharing water",-1,-1,NA,1,"negative",1
+"protected water infrastructure","water availability",2.33333333333333,7,0.577350269189626,3,"positive",7
+"protected water infrastructure","water quality",2.5,5,0.707106781186548,2,"positive",5
+"protection of water against theft","non-community members using water sources",-3,-3,NA,1,"negative",3
+"purchase of female livestock","livestock population",2,2,NA,1,"positive",2
+"purchasing on credit","financial security",-1,-1,NA,1,"negative",1
+"purchasing on credit","food availability",3,3,NA,1,"positive",3
+"purchasing on credit","food purchase",2,2,NA,1,"positive",2
+"purchasing on credit","malnutrition",-3,-3,NA,1,"negative",3
+"rainfall","availability of fruit and vegetables",2,2,NA,1,"positive",2
+"rainfall","cold, damp environment",2.5,5,0.707106781186548,2,"positive",5
+"rainfall","crop harvest",3,3,NA,1,"positive",3
+"rainfall","diarrhoea",2,4,0,2,"positive",4
+"rainfall","drinking water availability",3,3,NA,1,"positive",3
+"rainfall","drought",-3,-33,0,11,"negative",33
+"rainfall","flooding",3,3,NA,1,"positive",3
+"rainfall","grazing",3,12,0,4,"positive",12
+"rainfall","grazing nutritional quality",3,3,NA,1,"positive",3
+"rainfall","livestock disease",3,3,NA,1,"positive",3
+"rainfall","livestock kept close to settlements",3,3,NA,1,"positive",3
+"rainfall","malaria",2.5,5,0.707106781186548,2,"positive",5
+"rainfall","milk contamination",2,2,NA,1,"positive",2
+"rainfall","pneumonia",2,2,NA,1,"positive",2
+"rainfall","purchasing on credit",-2,-2,NA,1,"negative",2
+"rainfall","respiratory infections",2.33333333333333,7,0.577350269189626,3,"positive",7
+"rainfall","surface water use",2.66666666666667,8,0.577350269189626,3,"positive",8
+"rainfall","use of shallow wells",-2,-2,NA,1,"negative",2
+"rainfall","vector populations",2.5,5,0.707106781186548,2,"positive",5
+"rainfall","water availability",2.875,23,0.353553390593274,8,"positive",23
+"rainfall","water contamination",2.25,9,0.5,4,"positive",9
+"rainfall","water quality",-3,-6,0,2,"negative",6
+"rainfall","water salinity",-2,-2,NA,1,"negative",2
+"rainfall","wildlife sharing water sources",-2,-2,NA,1,"negative",2
+"rainfall predictability","crop harvest",3,3,NA,1,"positive",3
+"rainfall predictability","water availability",-2,-2,NA,1,"negative",2
+"remittances","financial security",2,2,NA,1,"positive",2
+"remittances","income",1,2,0,2,"positive",2
+"remittances","schooling",2,2,NA,1,"positive",2
+"remoteness of settlement","access to healthcare",-3,-3,NA,1,"negative",3
+"remoteness of settlement","distance to school",2,2,NA,1,"positive",2
+"remoteness of settlement","water availability",-2,-2,NA,1,"negative",2
+"resource competition","insecurity & conflict",3,3,NA,1,"positive",3
+"resource competition","water availability",-2,-2,NA,1,"negative",2
+"resource sharing","crop harvest",-2,-4,1.4142135623731,2,"negative",4
+"resource sharing","financial security",2,2,NA,1,"positive",2
+"resource sharing","food availability",2,6,1,3,"positive",6
+"resource sharing","household expenses",0.5,1,3.53553390593274,2,"positive",1
+"resource sharing","milk availability",-2,-2,NA,1,"negative",2
+"resource uncertainty","access to natural resources",-2,-2,NA,1,"negative",2
+"respiratory infections","human health",-2.5,-5,0.707106781186548,2,"negative",5
+"respiratory infections","pneumonia",1,1,NA,1,"positive",1
+"road infrastructure","access to healthcare",2,2,NA,1,"positive",2
+"running businesses","income",1.66666666666667,5,0.577350269189626,3,"positive",5
+"safety & defence","access to natural resources",2,2,NA,1,"positive",2
+"safety & defence","drought resilience",3,3,NA,1,"positive",3
+"safety & defence","insecurity & conflict",-2,-2,NA,1,"negative",2
+"sale of livestock products","income",2,4,1.4142135623731,2,"positive",4
+"sale of livestock products","resource sharing",-2,-2,NA,1,"negative",2
+"salty water consumption","diarrhoea",1,1,NA,1,"positive",1
+"school fees","female education",3,3,NA,1,"positive",3
+"school fees","financial security",-3,-3,NA,1,"negative",3
+"schooling","ability to advocate for community",2,2,NA,1,"positive",2
+"schooling","access to information",3,3,NA,1,"positive",3
+"schooling","availability of loans",2,2,NA,1,"positive",2
+"schooling","deforestation",-2,-2,NA,1,"negative",2
+"schooling","family members in employment",2,2,NA,1,"positive",2
+"schooling","financial security",-2.66666666666667,-8,0.577350269189626,3,"negative",8
+"schooling","formal employment",2.28571428571429,16,0.487950036474267,7,"positive",16
+"schooling","health seeking behaviour",2,2,NA,1,"positive",2
+"schooling","household expenses",3,12,0,4,"positive",12
+"schooling","human resources for herding livestock",-3,-3,NA,1,"negative",3
+"schooling","income diversification",2,2,NA,1,"positive",2
+"schooling","indigenous knowledge & skills",-2,-2,NA,1,"negative",2
+"schooling","language skills",2.5,5,0.707106781186548,2,"positive",5
+"schooling","life opportunities",2,2,NA,1,"positive",2
+"schooling","livestock sale",3,3,NA,1,"positive",3
+"schooling","modernisation",2,2,NA,1,"positive",2
+"schooling","sedentarisation",3,6,0,2,"positive",6
+"sedentarisation","food availability",-2,-2,NA,1,"negative",2
+"sedentarisation","growing cash and food crops",3,3,NA,1,"positive",3
+"sedentarisation","livestock moved to distant pasture",-3,-3,NA,1,"negative",3
+"sedentarisation","mobility",-2,-2,NA,1,"negative",2
+"sedentarisation","remoteness of settlement",2,2,NA,1,"positive",2
+"sickness in children <5","human death",2,2,NA,1,"positive",2
+"sickness of women","childcare",-3,-3,NA,1,"negative",3
+"skin conditions","human health",-2,-2,NA,1,"negative",2
+"snakebite","human health",-2,-2,NA,1,"negative",2
+"snakebite","livestock death",2,2,NA,1,"positive",2
+"social capital","gender equality",2,2,NA,1,"positive",2
+"social capital","informal moral economy practices",3,3,NA,1,"positive",3
+"social capital","livestock population",1,1,NA,1,"positive",1
+"soil erosion","crop harvest",-2,-2,NA,1,"negative",2
+"stigma","health seeking behaviour",-1,-1,NA,1,"negative",1
+"surface water use","chemical water treatment",2,2,NA,1,"positive",2
+"surface water use","contaminated water consumption",2,2,NA,1,"positive",2
+"surface water use","distance to water",-2,-2,NA,1,"negative",2
+"surface water use","water quality",-3,-3,NA,1,"negative",3
+"switching to alternative water sources","distance to water",3,3,NA,1,"positive",3
+"tobacco use","cancer",2,2,NA,1,"positive",2
+"toilet facilities","clean air",2,2,NA,1,"positive",2
+"toilet facilities","diarrhoea",-3,-3,NA,1,"negative",3
+"toilet facilities","environmental faecal contamination",-3,-3,NA,1,"negative",3
+"toilet facilities","open defacation",-2.5,-5,0.707106781186548,2,"negative",5
+"tool & seed purchase","growing cash and food crops",2,2,NA,1,"positive",2
+"toxic chemical dumping","cancer",1,1,NA,1,"positive",1
+"traditional medicine","health seeking behaviour",-2,-2,NA,1,"negative",2
+"traditional medicine","sickness in children <5",-1,-1,NA,1,"negative",1
+"training on rangeland management","livestock moved to distant pasture",-2,-2,NA,1,"negative",2
+"transport","access to healthcare",2,2,NA,1,"positive",2
+"transport","access to natural resources",3,3,NA,1,"positive",3
+"transport","availability of fruit and vegetables",2,2,NA,1,"positive",2
+"transport","delivery of food supplies",2,2,NA,1,"positive",2
+"transport","expenditure on transport",-2,-2,NA,1,"negative",2
+"transport","hospital visits",3,3,NA,1,"positive",3
+"transport","income diversification",2,2,NA,1,"positive",2
+"transport","market access",3,3,NA,1,"positive",3
+"travel to distant water sources","exhaustion",3,3,NA,1,"positive",3
+"travel to distant water sources","insecurity & conflict",2.5,2.5,NA,1,"positive",2.5
+"travel to distant water sources","livestock death",2,2,NA,1,"positive",2
+"travel to distant water sources","malnutrition",2,2,NA,1,"positive",2
+"travel to distant water sources","stress",2,2,NA,1,"positive",2
+"treatment follow up","health seeking behaviour",2,2,NA,1,"positive",2
+"ulcers","hospital visits",2,2,NA,1,"positive",2
+"ulcers","human health",-2,-2,NA,1,"negative",2
+"unprotected water sources","contaminated water consumption",1,1,NA,1,"positive",1
+"unprotected water sources","natural resource management",-3,-3,NA,1,"negative",3
+"unprotected water sources","people and livestock sharing water",3,3,NA,1,"positive",3
+"unprotected water sources","water quality",-2.5,-5,0.707106781186548,2,"negative",5
+"urbanisation","formalized moral economy practices",3,3,NA,1,"positive",3
+"urbanisation","market access",3,3,NA,1,"positive",3
+"urbanisation","modernisation",2,2,NA,1,"positive",2
+"urbanisation","sale of livestock products",3,3,NA,1,"positive",3
+"urbanisation","social capital",-2,-2,NA,1,"negative",2
+"use of ash as floculant and water treatment","water quality",3,3,NA,1,"positive",3
+"use of shallow wells","people and livestock sharing water",3,3,NA,1,"positive",3
+"use of shallow wells","salty water consumption",1,1,NA,1,"positive",1
+"use of shallow wells","wildlife sharing water sources",1,1,NA,1,"positive",1
+"vector populations","human health",-2,-2,NA,1,"negative",2
+"vector populations","livestock disease",2,6,0,3,"positive",6
+"vector populations","malaria",2.5,5,0.707106781186548,2,"positive",5
+"vegetation cover","flooding",-2,-2,NA,1,"negative",2
+"vegetation cover","grazing",2,2,NA,1,"positive",2
+"vegetation cover","soil erosion",-2,-2,NA,1,"negative",2
+"vegetation cover","water availability",-2,-2,NA,1,"negative",2
+"veterinary services","acaracide use",2,2,NA,1,"positive",2
+"veterinary services","livestock disease",-2,-2,NA,1,"negative",2
+"vomiting","human health",-2,-4,0,2,"negative",4
+"washing body and clothes","jiggers",-2,-2,NA,1,"negative",2
+"washing body and clothes","skin conditions",-3,-3,NA,1,"negative",3
+"washing food","diarrhoea",-2,-2,NA,1,"negative",2
+"water availability","cooking",2,2,NA,1,"positive",2
+"water availability","expenditure on transport",-2,-2,NA,1,"negative",2
+"water availability","female work load",-2,-2,NA,1,"negative",2
+"water availability","grazing",2,2,NA,1,"positive",2
+"water availability","growing cash and food crops",2,2,NA,1,"positive",2
+"water availability","herd splitting",-2,-2,NA,1,"negative",2
+"water availability","hygiene & sanitation",3,3,NA,1,"positive",3
+"water availability","kitchen gardens",2,2,NA,1,"positive",2
+"water availability","livestock body condition",3,3,NA,1,"positive",3
+"water availability","milk availability",2,2,NA,1,"positive",2
+"water availability","payment for water",-3,-3,NA,1,"negative",3
+"water availability","people and livestock sharing water",2,2,NA,1,"positive",2
+"water availability","resource competition",-2,-2,NA,1,"negative",2
+"water availability","resource sharing",-3,-3,NA,1,"negative",3
+"water availability","travel to distant water sources",-3,-3,NA,1,"negative",3
+"water availability","use of shallow wells",-3,-3,NA,1,"negative",3
+"water availability","washing body and clothes",3,6,0,2,"positive",6
+"water availability","water contamination",-2,-2,NA,1,"negative",2
+"water availability","water quality",3,3,NA,1,"positive",3
+"water availability","water trucking",-2,-2,NA,1,"negative",2
+"water contamination","cancer",2,2,NA,1,"positive",2
+"water contamination","contaminated water consumption",2.5,2.5,NA,1,"positive",2.5
+"water contamination","water quality",-2.88888888888889,-26,0.333333333333333,9,"negative",26
+"water purchase","contaminated water consumption",-2,-2,NA,1,"negative",2
+"water quality","diarrhoea",-2.88888888888889,-26,0.333333333333333,9,"negative",26
+"water quality","distance to water",-1,-1,NA,1,"negative",1
+"water quality","human health",2.5,5,0.707106781186548,2,"positive",5
+"water quality","livestock disease",-2,-2,NA,1,"negative",2
+"water quality","use of ash as floculant and water treatment",-3,-3,NA,1,"negative",3
+"water quality","vomiting",-3,-3,NA,1,"negative",3
+"water quality","water trucking",-2,-2,NA,1,"negative",2
+"water quality","water-borne disease",-3,-3,NA,1,"negative",3
+"water salinity","contaminated water consumption",3,3,NA,1,"positive",3
+"water salinity","water quality",-2,-2,NA,1,"negative",2
+"water storage infrastructure","protection of water against theft",2,2,NA,1,"positive",2
+"water storage infrastructure","water availability",2.5,10,0.577350269189626,4,"positive",10
+"water storage infrastructure","water quality",-2,-4,0,2,"negative",4
+"water treatment","contaminated water consumption",-3,-3,NA,1,"negative",3
+"water trucking","household expenses",3,3,NA,1,"positive",3
+"water trucking","people and livestock sharing water",2,2,NA,1,"positive",2
+"water trucking","water availability",2,2,NA,1,"positive",2
+"water trucking","water purchase",1,1,NA,1,"positive",1
+"water-borne disease","human health",-2,-2,NA,1,"negative",2
+"well digging","washing body and clothes",2,2,NA,1,"positive",2
+"wildlife conservation","access to natural resources",-2,-2,NA,1,"negative",2
+"wildlife conservation","carbon credit schemes",1,1,NA,1,"positive",1
+"wildlife conservation","exclusion of pastoralists from resources",2,2,NA,1,"positive",2
+"wildlife conservation","formal governance structures",2,2,NA,1,"positive",2
+"wildlife conservation","vector populations",2,2,NA,1,"positive",2
+"wildlife predation","livestock death",1,1,NA,1,"positive",1
+"wildlife sharing water sources","water contamination",3,3,NA,1,"positive",3
+"women's financial independence","financial contribution to women's group",3,3,NA,1,"positive",3
+"women's financial independence","gender equality",3,3,NA,1,"positive",3
+"women's financial independence","income diversification",3,3,NA,1,"positive",3
